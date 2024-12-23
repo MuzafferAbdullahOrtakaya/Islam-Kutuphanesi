@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "name": "El Taberi 1",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1IYGtWyUCCNzDPeRB9iATYnj6PX4yAsxp",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 2",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 2.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1t-UdX_wEd4jbVU72R9ztl5IUGFWLkTG6",
+      "category": "Tefsir"
+    },
+    {
+      "name": "Sahih Buhari",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599419/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120528_0000_slest0.png",
+      "ariaLabel": "Sahih Buhari: İmam Buhari",
+      "link": "https://drive.google.com/open?id=1bKHELsNfB94XQB9ZR_uGKwjxx09OMMXy",
+      "category": "Hadis"
+    },
+    {
+      "name": "Müsned-i Ahmed Bin Hanbel",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734624148/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_190146_0000_d2yckx.png",
+      "ariaLabel": "Müsned-i Ahmed Bin Hanbel: İmam Ahmed",
+      "link": "https://drive.google.com/open?id=1XZYr1aH0B6iYEhUu_ArGLY7ERmsbfjFX",
+      "category": "Hadis"
+    },
+    {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Ahlak Ve Tasavvuf"
+    },
+    {
+      "name": "Aliya İzzetbegoviç Doğu İle Batı Arasında İslam",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734519944/Screenshot_20241218_140156_Samsung_Notes_cnx0wi.jpg",
+      "ariaLabel": "Doğu İle Batı Arasında İslam: Aliya İzzetbegoviç",
+      "link": "https://drive.google.com/open?id=10eveaZSTm2QY3IJlC46YRdCTEJAzgRju",
+      "category": "Genel"
+    }
+    // ... Buraya diğer tüm kitapları ekle ...
+  ]
+}
