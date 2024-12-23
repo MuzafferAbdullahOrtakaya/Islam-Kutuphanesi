@@ -15,10 +15,102 @@
       "category": "Tefsir"
     },
     {
+      "name": "El Taberi 3",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 3.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1zYRUnzBjFZsxtHxRbi-0V25plQdw09ae",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 4",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 4.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1nREFdlZS_LeuaWW86R3gf_hswa_bCyhP",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 5",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 5.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1CklYqORdRt3hsguHlQPAUuD_uyF683PS",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 6",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 6.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1g0-cUCiNN4NGvi5kHsvHFzd9Ia5ylp_5",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 7",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 7.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1y6iJ8nywQZvIKl2ejlLekasZ-JoMW_OL",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 8",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 8.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1gBAZoAcm7LjqKe8GAlYYGLLR7J8ca3by",
+      "category": "Tefsir"
+    },
+    {
+      "name": "El Taberi 9",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734598485/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_115434_0000_bsy3bh.png",
+      "ariaLabel": "Taberi Tefsir 9.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=1GDFmEl8irJlfsxTLJpTJf9mgc2gXJwL_",
+      "category": "Tefsir"
+    },
+
+    {
+      "name": "İmam Nevevi Riyazü´s Salihin",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734626704/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_194452_0000_ifsahf.png",
+      "ariaLabel": "Riyazü´s Salihin: İmam Nevevi",
+      "link": "https://drive.google.com/open?id=10tABdrDNrwbkeZnmxOZUtfrPwaVmOnXb",
+      "category": "Hadis"
+    },
+    {
       "name": "Sahih Buhari",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599419/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120528_0000_slest0.png",
       "ariaLabel": "Sahih Buhari: İmam Buhari",
       "link": "https://drive.google.com/open?id=1bKHELsNfB94XQB9ZR_uGKwjxx09OMMXy",
+      "category": "Hadis"
+    },
+    {
+      "name": "Sahih Müslim",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599451/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120602_0000_gldc4z.png",
+      "ariaLabel": "Sahih Müslim: İmam Müslim",
+      "link": "https://drive.google.com/open?id=1A693p6Nj7mQVKKdopDAfIotmwmABgGo2",
+      "category": "Hadis"
+    },
+    {
+      "name": "Süneni Ebu Davud",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599505/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120719_0000_it8yhv.png",
+      "ariaLabel": "Süneni Ebu Davud: Ebu Davud",
+      "link": "https://drive.google.com/open?id=1Ii8l_QF0N0bJxtoLPA7WiHZ2dxBTpwKa",
+      "category": "Hadis"
+    },
+    {
+      "name": "Süneni İbn Mace",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599535/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120757_0000_htkt82.png",
+      "ariaLabel": "Süneni İbn Mace: İbn Mace",
+      "link": "https://drive.google.com/open?id=1cZB3u2bS_3tz4SLwbMqOqToDU_rsi2BK",
+      "category": "Hadis"
+    },
+    {
+      "name": "Süneni Tirmizi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599576/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120850_0000_euvzno.png",
+      "ariaLabel": "Süneni Tirmizi: İmam Tirmizi",
+      "link": "https://drive.google.com/open?id=1VYSO321YTfPbMAxLBaDpaceKngdJMTvZ",
+      "category": "Hadis"
+    },
+    {
+      "name": "Süneni Nesai",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734599600/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_120929_0000_blych0.png",
+      "ariaLabel": "Süneni Nesai: İmam Nesai",
+      "link": "https://drive.google.com/open?id=1wQXUoYyLYo7iWplYDEFOkwcG9cxoQm5h",
       "category": "Hadis"
     },
     {
@@ -29,6 +121,42 @@
       "category": "Hadis"
     },
     {
+      "name": "İmam Malik Muvatta",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734624499/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_190650_0000_la0sz8.png",
+      "ariaLabel": "Muvatta: İmam Malik",
+      "link": "https://drive.google.com/open?id=1hh-15RGUoE28k8tEx48RupsfEm0eXIht",
+      "category": "Hadis"
+    },
+    {
+      "name": "Sünen-i Darimi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734624512/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_190748_0000_clies1.png",
+      "ariaLabel": "Sünen-i Darimi: İmam Darimi",
+      "link": "https://drive.google.com/open?id=1ncZROR1YRWq9l5ZXWPPxtKaTq9iWhwZ0",
+      "category": "Hadis"
+    },
+
+    {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Akide"
+    },
+    {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Fıkıh"
+    },
+    {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Siyer"
+    },
+    {
       "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
       "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
@@ -36,10 +164,32 @@
       "category": "Ahlak Ve Tasavvuf"
     },
     {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Dua Ve Zikir"
+    },
+
+    {
+      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
+      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
+      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+      "category": "Genel"
+    },
+    {
       "name": "Aliya İzzetbegoviç Doğu İle Batı Arasında İslam",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734519944/Screenshot_20241218_140156_Samsung_Notes_cnx0wi.jpg",
       "ariaLabel": "Doğu İle Batı Arasında İslam: Aliya İzzetbegoviç",
       "link": "https://drive.google.com/open?id=10eveaZSTm2QY3IJlC46YRdCTEJAzgRju",
+      "category": "Genel"
+    },
+    {
+      "name": "Seyid Kutup Yoldaki İşaretler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734519956/Screenshot_20241218_140224_Samsung_Notes_td6dlx.jpg",
+      "ariaLabel": "Yoldaki İşaretler: Seyid Kutup",
+      "link": "https://drive.google.com/open?id=10gq6FSKIC0GzSxHBcw9BV1V4640o6kcQ",
       "category": "Genel"
     }
   ]
