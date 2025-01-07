@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="https://res.cloudinary.com/dl5qwgbes/image/upload/v1736267062/transparent_logo-removebg-preview_q5pqrm.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="İslam Kütüphanesi, Kur'an tefsirleri, hadisler, İslami kitaplar, fıkıh, tasavvuf eserleri, dua, zikir ve genel dini kaynaklarla İslam dünyasına ışık tutar.">
+    <meta name="keywords" content="Kur'an, Hadis, Tefsir, İslami Kitaplar, Fıkıh, Tasavvuf, Dua ve Zikir, İslam, İslam Kütüphanesi, Dini E-kitaplar, İslam Tarihi, İslami Eğitim, Peygamber Hayatı, İslam İlmihali, Dini Ders Kitapları, İslami Arşiv, İslami Kütüphane">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="author" content="İslam Kütüphanesi - Muzaffer Abdullah Ortakaya">
+    <meta name="language" content="Turkish">
+    <meta name="revisit-after" content="7 days">
+    <meta property="og:title" content="İslam Kütüphanesi - İslami Kitaplar ve Kaynaklar">
+    <meta property="og:description" content="Tefsir, hadis, fıkıh, dua, zikir ve diğer İslami kitaplar için online kütüphane.">
+    <meta property="og:image" content="https://res.cloudinary.com/dl5qwgbes/image/upload/v1736266614/website_logo-removebg-preview_ysxsie.png">
+    <meta property="og:url" content="https://islamkutuphanesi.com">
+    <meta property="og:type" content="website">
+    <title>İslam Kütüphanesi - İslami Kitap ve Kaynaklar</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <!-- CSS dosyası / Font Awesome istersek ekleriz, ancak ikonları emojiye çektik -->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            background-color: #f0f2f5;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        header {
+            background: linear-gradient(135deg, #006d6f, #006d6f);
+            color: #fff;
+            padding: 5px 5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.7);
+            flex-wrap: wrap;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+            letter-spacing: 1px;
+        }
+        .search-bar {
+            width: 350px;
+            max-width: 100%;
+            height: 40px;
+            border-radius: 20px;
+            border: none;
+            outline: none;
+            padding: 0 20px;
+            font-size: 16px;
+            background-color: #ffffff;
+            color: #000000;
+            transition: box-shadow 0.3s ease;
+            text-transform: capitalize;
+        }
+        .search-bar::placeholder {
+            color: #888888;
+        }
+        .search-bar:focus {
+            box-shadow: 0 0 15px rgba(0, 191, 165, 0.6);
+        }
+        @media (max-width: 600px) {
+            .search-bar {
+              width: 220px;
+              height: 35px;
+              font-size: 14px;
+            }
+        }
+        section.container {
+            padding: 20px 10px;
+        }
+        section h2 {
+            text-align: center;
+            color: #333333;
+            margin-bottom: 40px;
+            font-size: 2rem;
+            position: relative;
+        }
+        section h2::after {
+            content: '';
+            position: absolute;
+            width: 60px;
+            height: 4px;
+            background-color: #00bfa5;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            border-radius: 2px;
+        }
+        @media (max-width: 600px) {
+            header {
+              padding: 10px 15px;
+            }
+            header h1 {
+              font-size: 1.5rem;
+            }
+        }
+        .scroll-container {
+            display: flex;
+            overflow-x: auto;
+            padding: 20px 0;
+            gap: 10px;
+        }
+        .scroll-container::-webkit-scrollbar {
+            display: none;
+        }
+        hr.section-separator {
+            width: 80%;
+            margin: 5px auto;
+            border: 0;
+            height: 2px;
+            background: linear-gradient(to right, #ccc, #00bfa5, #ccc);
+            border-radius: 2px;
+        }
+        footer {
+            background-color: #006d6f;
+            color: #fff;
+            text-align: center;
+            padding: 20px 10px;
+            margin-top: 20px;
+            position: relative;
+            transition: background-color 0.3s ease;
+        }
+        footer a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 10px;
+            transition: color 0.3s ease;
+            font-weight: 300;
+        }
+        footer a:hover {
+            color: #ffdd57;
+        }
+        .book-card {
+            flex: 0 0 175px;
+            height: 275px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            border-radius: 15px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+            text-align: center;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .book-card::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #006d6f;
+            opacity: 0;
+            transition: opacity 0.6s ease;
+            pointer-events: none;
+            z-index: 1;
+        }
+        .book-card:hover::before {
+            opacity: 1;
+        }
+        .book-card:hover {
+            transform: translateY(-5px) rotate(2deg);
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7);
+            filter: brightness(1);
+        }
+        .book-title {
+            position: relative;
+            z-index: 2;
+            font-size: 15px;
+            font-weight: bold;
+            color: white;
+            opacity: 0;
+            transition: opacity 0.6s ease;
+            margin: 125px 0 0 0;
+        }
+        .book-card:hover .book-title {
+            opacity: 1;
+        }
+        body {
+            color-scheme: light;
+            forced-color-adjust: none;
+        }
+        * {
+            forced-color-adjust: none;
+        }
+        body, header, section, footer {
+            -webkit-filter: none !important;
+            filter: none !important;
+        }
+        @media (max-width: 600px) {
+            .book-card {
+                flex: 0 0 140px;
+                height: 220px;
+            }
+        }
+        :root {
+          /* Aydınlık tema için varsayılan renk değişkenleri */
+          --bg-color: #f0f2f5;
+          --text-color: #000;
+          --header-bg: linear-gradient(135deg, #006d6f, #006d6f);
+        }
+        body {
+          background-color: var(--bg-color);
+          color: var(--text-color);
+        }
+        /* Karanlık mod devredeyken değerleri değiştiriyoruz */
+        .dark-mode {
+          --bg-color: #1e1e1e;
+          --text-color: #fff;
+          --header-bg: linear-gradient(135deg, #333333, #333333);
+        }
+        /* Header ve diğer bileşenler, bu değişkenleri kullansın */
+        header {
+          background: var(--header-bg);
+        }
+
+        /* Karanlık mod butonu (Emoji) */
+        .dark-mode-toggle {
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            color: #fff;
+            font-size: 2.3rem;
+            margin-left: 10px;
+            transition: transform 0.3s;
+        }
+        .dark-mode-toggle:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+<header>
+  <div style="display: inline-flex; align-items: center;">
+    <img src="https://res.cloudinary.com/dl5qwgbes/image/upload/v1736267062/transparent_logo-removebg-preview_q5pqrm.png" alt="Logo" style="height: 5.5em; margin-right: 5px;">
+    <h1>İslam Kütüphanesi</h1>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <input type="text" id="searchInput" class="search-bar" placeholder="Kitap Ara..." aria-label="Kitap Ara">
+    <!-- Ay/Güneş Emojili Buton -->
+    <button id="themeToggleBtn" class="dark-mode-toggle" aria-label="Tema Değiştir">
+      <span id="darkModeIcon">🌙</span>
+    </button>
+  </div>
+</header>
+
+<!-- Tefsir -->
+<section class="container">
+  <h2>Tefsir Kitapları</h2>
+  <div class="scroll-container" id="tefsirContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Hadis -->
+<section class="container">
+  <h2>Hadis Kitapları</h2>
+  <div class="scroll-container" id="hadisContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Akide -->
+<section class="container">
+  <h2>Akide Kitapları</h2>
+  <div class="scroll-container" id="akideContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Fıkıh -->
+<section class="container">
+  <h2>Fıkıh Kitapları</h2>
+  <div class="scroll-container" id="fikihContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Siyer -->
+<section class="container">
+  <h2>Siyer Kitapları</h2>
+  <div class="scroll-container" id="siyerContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Ahlak Ve Tasavvuf -->
+<section class="container">
+  <h2>Ahlak Ve Tasavvuf Kitapları</h2>
+  <div class="scroll-container" id="ahlakContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Dua Ve Zikir -->
+<section class="container">
+  <h2>Dua Ve Zikir Kitapları</h2>
+  <div class="scroll-container" id="duaContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<!-- Genel -->
+<section class="container">
+  <h2>Genel Kitaplar</h2>
+  <div class="scroll-container" id="genelContainer">
+    <!-- JS ile eklenecek -->
+  </div>
+</section>
+
+<footer>
+  <p>Tüm Hakları Gizlidir. &copy; 2024</p>
+  <p>abdullah.ortakaya@doque.com.tr</p>
+</footer>
+
+<script>
+/* 
+  -----------------------------------------------------------
+   1) ÖN HAZIRLIK: GitHub'daki books.json RAW linkini gir
+  -----------------------------------------------------------
+*/
+const JSON_URL = "https://raw.githubusercontent.com/MuzafferAbdullahOrtakaya/Islam-Kutuphanesi/refs/heads/main/Book.json"; 
+// Yukarıdaki satırı kendi GitHub RAW linkinle değiştir.
+
+// Kaç tane kitap gözüksün? (Her kategori için)
+const MAX_BOOKS_PER_CATEGORY = 20;
+
+// Kategorileri bir listeye aldık,
+// JSON’da "category" alanı, bu metinle eşleşirse o container’a gider.
+const categories = [
+  { name: "Tefsir",              containerId: "tefsirContainer" },
+  { name: "Hadis",               containerId: "hadisContainer" },
+  { name: "Akide",               containerId: "akideContainer" },
+  { name: "Fıkıh",               containerId: "fikihContainer" },
+  { name: "Siyer",               containerId: "siyerContainer" },
+  { name: "Ahlak Ve Tasavvuf",   containerId: "ahlakContainer" },
+  { name: "Dua Ve Zikir",        containerId: "duaContainer" },
+  { name: "Genel",               containerId: "genelContainer" }
+];
+
+let allBooks = [];
+
+/* 
+  -----------------------------------------------------------
+   2) Sayfa Yüklendiğinde JSON'u Çek, Kategorileri Doldur
+  -----------------------------------------------------------
+*/
+document.addEventListener("DOMContentLoaded", () => {
+  fetch(JSON_URL)
+    .then(response => response.json())
+    .then(data => {
+      allBooks = data.books || [];
+      // Her kategori için, o kategorinin random 20 kitabını göster
+      categories.forEach(cat => displayDailyCategoryBooks(cat.name, cat.containerId));
+      // Arama çubuğu
+      initSearchFunctionality();
+    })
+    .catch(err => {
+      console.error("books.json verisi çekilirken hata:", err);
+    });
+});
+
+/* 
+  -----------------------------------------------------------
+   3) Her Kategori İçin GÜNLÜK Random 20 Kitap Seçme
+      (LocalStorage ile aynı gün tekrar girilse dahi aynı 20)
+  -----------------------------------------------------------
+*/
+function displayDailyCategoryBooks(categoryName, containerId) {
+  // localStorage anahtarları: "randomDate-kategori", "randomBooks-kategori"
+  const today = new Date().toISOString().slice(0, 10);
+  const dateKey = `randomDate-${categoryName}`;
+  const booksKey = `randomBooks-${categoryName}`;
+
+  const storedDate = localStorage.getItem(dateKey);
+  const storedBooks = localStorage.getItem(booksKey);
+
+  let finalBooks = [];
+
+  // Önce JSON'da bu kategoriye ait kitapları bul
+  const categoryBooks = allBooks.filter(b => b.category === categoryName);
+
+  if (storedDate === today && storedBooks) {
+    finalBooks = JSON.parse(storedBooks);
+  } else {
+    const shuffled = [...categoryBooks].sort(() => 0.5 - Math.random());
+    finalBooks = shuffled.slice(0, MAX_BOOKS_PER_CATEGORY);
+    localStorage.setItem(dateKey, today);
+    localStorage.setItem(booksKey, JSON.stringify(finalBooks));
+  }
+
+  // DOM'a bas
+  renderBooks(finalBooks, containerId);
+}
+
+/*
+  -----------------------------------------------------------
+   4) Kitap Kartlarını Belirtilen Container'a Basma Fonksiyonu
+  -----------------------------------------------------------
+*/
+function renderBooks(bookArray, containerId) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+  container.innerHTML = ""; // Önce temizle
+
+  bookArray.forEach(book => {
+    const card = document.createElement("a");
+    card.className = "book-card";
+    card.style.backgroundImage = `url('${book.imageUrl}')`;
+    card.setAttribute("aria-label", book.ariaLabel || book.name);
+
+    card.addEventListener("click", () => {
+      window.open(book.link, "_blank");
+    });
+
+    const titleDiv = document.createElement("div");
+    titleDiv.className = "book-title";
+    titleDiv.textContent = book.name;
+
+    card.appendChild(titleDiv);
+    container.appendChild(card);
+  });
+}
+
+/*
+  -----------------------------------------------------------
+   5) Arama Kutusu: Tüm Kategorilerde Arama
+      - Arama boşsa daily random kalır
+      - Arama yapılırsa sadece eşleşenler gösterilir
+  -----------------------------------------------------------
+*/
+function initSearchFunctionality() {
+  const searchInput = document.getElementById("searchInput");
+  if (!searchInput) return;
+
+  searchInput.addEventListener("input", function () {
+    const filter = normalizeString(this.value.trim());
+
+    if (!filter) {
+      categories.forEach(cat => displayDailyCategoryBooks(cat.name, cat.containerId));
+      return;
+    }
+
+    let scrolledToFirst = false;
+    categories.forEach(cat => {
+      const catBooks = allBooks.filter(b => b.category === cat.name);
+      const words = filter.split(/\s+/);
+      const filtered = catBooks.filter(book => {
+        const title = normalizeString(book.name);
+        const label = normalizeString(book.ariaLabel || "");
+        return words.some(word => title.includes(word) || label.includes(word));
+      });
+
+      renderBooks(filtered, cat.containerId);
+
+      if (filtered.length > 0 && !scrolledToFirst) {
+        const targetContainer = document.getElementById(cat.containerId);
+        if (targetContainer) {
+          targetContainer.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+        scrolledToFirst = true;
+      }
+    });
+  });
+}
+
+/*
+  -----------------------------------------------------------
+   6) Yazı Normalleştirme (Türkçe Karakter vs.)
+  -----------------------------------------------------------
+*/
+function normalizeString(str) {
+  return str
+    .toLowerCase()
+    .replace(/ı/g, 'i')
+    .replace(/ğ/g, 'g')
+    .replace(/ü/g, 'u')
+    .replace(/ş/g, 's')
+    .replace(/ç/g, 'c')
+    .replace(/ö/g, 'o')
+    .replace(/İ/g, 'i')
+    .replace(/I/g, 'i')
+    .replace(/Ğ/g, 'g')
+    .replace(/Ü/g, 'u')
+    .replace(/Ş/g, 's')
+    .replace(/Ç/g, 'c')
+    .replace(/Ö/g, 'o')
+    .replace(/\s+/g, '');
+}
+
+// Otomatik Kaydırma Ayarları
+const scrollContainers = document.querySelectorAll('.scroll-container');
+const scrollSpeed = 4;
+const edgeWidth = 175;
+scrollContainers.forEach(container => {
+    let isScrolling = false;
+    let scrollDirection = 0;
+    const handleMouseMove = (e) => {
+        const rect = container.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        if (mouseX < edgeWidth) {
+            scrollDirection = -1;
+        } else if (mouseX > rect.width - edgeWidth) {
+            scrollDirection = 1;
+        } else {
+            scrollDirection = 0;
+        }
+        if (scrollDirection !== 0 && !isScrolling) {
+            isScrolling = true;
+            requestAnimationFrame(scrollStep);
+        }
+    };
+    const handleMouseLeave = () => {
+        scrollDirection = 0;
+        isScrolling = false;
+    };
+    const scrollStep = () => {
+        if (scrollDirection === -1) {
+            container.scrollLeft -= scrollSpeed;
+        } else if (scrollDirection === 1) {
+            container.scrollLeft += scrollSpeed;
+        }
+        if (scrollDirection !== 0) {
+            requestAnimationFrame(scrollStep);
+        } else {
+            isScrolling = false;
+        }
+    };
+    container.addEventListener('mousemove', handleMouseMove);
+    container.addEventListener('mouseleave', handleMouseLeave);
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+  const lazyImages = document.querySelectorAll('.book-card');
+  const imageObserver = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const bookCard = entry.target;
+        observer.unobserve(bookCard);
+      }
+    });
+  });
+  lazyImages.forEach(image => {
+    imageObserver.observe(image);
+  });
+});
+
+// service-worker.js
+const CACHE_NAME = "kutuphane-cache-v1";
+const urlsToCache = [
+  "/index.html",
+  "/styles.css",
+  "/script.js",
+  // ... Lazım olan diğer dosyalar veya resimler ...
+];
+
+self.addEventListener("install", event => {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(cache => {
+      return cache.addAll(urlsToCache);
+    })
+  );
+});
+
+self.addEventListener("fetch", event => {
+  event.respondWith(
+    fetch(event.request).catch(() => caches.match(event.request))
+  );
+});
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js")
+    .then(() => console.log("Service Worker kaydedildi"))
+    .catch(err => console.error("SW kaydedilemedi:", err));
+}
+
+// Koyu/Aydınlık Mod Butonu (Emoji) için JS
+document.addEventListener("DOMContentLoaded", function() {
+  const themeToggleBtn = document.getElementById("themeToggleBtn");
+  const darkModeIcon = document.getElementById("darkModeIcon");
+
+  // Mevcut tema: localStorage
+  let currentTheme = localStorage.getItem("theme") || "light";
+
+  // Sayfa ilk açılırken kontrol
+  if (currentTheme === "dark") {
+    document.body.classList.add("dark-mode");
+    darkModeIcon.textContent = "☀️"; // Koyu mod: güneş ikonu
+  } else {
+    darkModeIcon.textContent = "🌙"; // Aydınlık mod: ay ikonu
+  }
+
+  // Buton tıklamasında geçiş 
+  themeToggleBtn.addEventListener("click", function() {
+    document.body.classList.toggle("dark-mode");
+    if (document.body.classList.contains("dark-mode")) {
+      localStorage.setItem("theme", "dark");
+      darkModeIcon.textContent = "☀️";
+    } else {
+      localStorage.setItem("theme", "light");
+      darkModeIcon.textContent = "🌙";
+    }
+  });
+});
+</script>
+</body>
+</html>
