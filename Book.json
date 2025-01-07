@@ -1,6 +1,10 @@
 {
   "books": [
     {
+    "_comment": "Tefsir Kitapları",
+    "anahtar": "Tefsir"
+}
+    {
       "name": "El Taberi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1735045084/Besariul_Kuran_20241224_155430_0000_kwu8vu.png",
       "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
@@ -16,6 +20,10 @@
       "category": "Tefsir",
       "showOnHomepage": true
     },
+    {
+    "_comment": "Hadis Kitapları",
+    "anahtar": "Hadis"
+}
     {
       "name": "İmam Nevevi Riyazü´s Salihin",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734626704/Muhammed_Bin_Cerir_Et-Taberi_Tefsiri_20241219_194452_0000_ifsahf.png",
@@ -96,39 +104,58 @@
       "category": "Hadis",
       "showOnHomepage": true
     },
-
-    {
-      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
-      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
-      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
-      "category": "Akide",
+{
+    "_comment": "Akide Kitapları",
+    "anahtar": "Akide"
+}
+     {
+      "name": "Muhammed Bin Abdulvehhab Tevhid Risaleleri Külliyatı",
+      "imageUrl": "",
+      "ariaLabel": "Tevhid Rİsaleleri Külliyatı: Muhammed Bin Abdulvehhab",
+      "link": "https://drive.google.com/open?id=1Pe9tXzp6Gm7Q-TBxjzUv6X-HCZjdaaqn",
+      "category": "Genel",
       "showOnHomepage": true
-    },
+    }
     {
-      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
-      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
-      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+    "_comment": "Fıkıh Kitapları",
+    "anahtar": "Fıkıh"
+}
+    {
+      "name": "İmam Şafi Er-Risale",
+      "imageUrl": "",
+      "ariaLabel": "Er-Risale: İmam Şafi",
+      "link": "https://drive.google.com/open?id=1t4EiDfQVVMn-yjC7UZiJz0KAGuYBlgMa",
       "category": "Fıkıh",
       "showOnHomepage": true
     },
     {
-      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
-      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
-      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+    "_comment": "Siyer Kitapları",
+    "anahtar": "Siyer"
+}
+    {
+      "name": "İbn Kayyım El Cevziyye Zadü´l Mead",
+      "imageUrl": "",
+      "ariaLabel": "Zadü´l Mead: El Cevziyye",
+      "link": "https://drive.google.com/open?id=1ZcaeiAMebIYwE5kxA9452fNC_aEPlKbt",
       "category": "Siyer",
       "showOnHomepage": true
     },
     {
-      "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
-      "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
-      "link": "https://drive.google.com/open?id=10CbYDk5_Tza7lYjNeFxVS8GwDmRopxDC",
+    "_comment": "Ahlak Ve Tasavvuf Kitapları",
+    "anahtar": "Ahlak Ve Tasavvuf"
+}
+    {
+      "name": "İmam Gazali Esmaül Hüsna",
+      "imageUrl": "",
+      "ariaLabel": "Esmaül Hüsna: İmam Gazali",
+      "link": "https://drive.google.com/open?id=1-tTuCZKEwGy7CvI4atJtyc74UwSUvuWF",
       "category": "Ahlak Ve Tasavvuf",
       "showOnHomepage": true
     },
+    {
+    "_comment": "Dua Ve Zikir Kitapları",
+    "anahtar": "Dua Ve Zikir"
+}
     {
       "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
@@ -137,7 +164,10 @@
       "category": "Dua Ve Zikir",
       "showOnHomepage": true
     },
-
+{
+    "_comment": "Genel Kitaplar",
+    "anahtar": "Genel"
+}
     {
       "name": "Rasim Özdenören Müslümanca Düşünme Üzerine Denemeler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1734429642/Screenshot_20241217_125955_Samsung_Notes_rg9pur.jpg",
