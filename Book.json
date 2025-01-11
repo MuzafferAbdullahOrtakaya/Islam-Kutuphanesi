@@ -21,6 +21,14 @@
       "showOnHomepage": true
     },
     {
+      "name": "Sufyan Es Sevri Tefsiri",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736624024/Screenshot_20250111_223305_Drive_scrxf5.jpg",
+      "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
+      "link": "https://drive.google.com/open?id=1OWoDlbl1Eay6svnwcdyrYbtEbkJYTLwn",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
       "_comment": "Hadis Kitapları",
       "anahtar": "Hadis"
     },
@@ -117,6 +125,30 @@
       "showOnHomepage": true
     },
     {
+      "name": "İmam Şafi Fıkhul Ekber",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/t_200x300/v1736623799/indir-3_wk8xgj.jpg",
+      "ariaLabel": "Fıkhul Ekber: İmam Şafi",
+      "link": "https://drive.google.com/open?id=1-Mg1hS57ektiXTE79rZU_kLobod84pGK",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İbn Teymiye Akıdetül Vasıtıyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736623794/indir-2_l9fg5y.jpg",
+      "ariaLabel": "Akıdetul Vasıtıyye: İbn Teymiye",
+      "link": "https://drive.google.com/open?id=1Pe9tXzp6Gm7Q-TBxjzUv6X-HCZjdaaqn",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İmam Ahmed Bin Hanbel Usulus Sünne",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736624266/Screenshot_20250111_223540_Drive_od2el6.jpg",
+      "ariaLabel": "Usulus Sünne: İmam Ahmed Bin Hanbel",
+      "link": "https://drive.google.com/open?id=1lgrLKSWymm8GJijpMKpUWC3bwUGfDuCK",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
       "_comment": "Fıkıh Kitapları",
       "anahtar": "Fıkıh"
     },
@@ -125,6 +157,14 @@
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736274187/Screenshot_20250107_211953_Drive_rye4c2.jpg",
       "ariaLabel": "Er-Risale: İmam Şafi",
       "link": "https://drive.google.com/open?id=1t4EiDfQVVMn-yjC7UZiJz0KAGuYBlgMa",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İbn Hazm Muhalla",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736624271/Screenshot_20250111_223649_Drive_ty7qcs.jpg",
+      "ariaLabel": "Muhalla: İbn Hazm",
+      "link": "https://drive.google.com/open?id=1QrUPS_dGs0o-BkagBPj4bTcGGm7TresH",
       "category": "Fıkıh",
       "showOnHomepage": true
     },
@@ -149,6 +189,14 @@
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736274196/Screenshot_20250107_212026_Drive_tjin3x.jpg",
       "ariaLabel": "Esmaül Hüsna: İmam Gazali",
       "link": "https://drive.google.com/open?id=1-tTuCZKEwGy7CvI4atJtyc74UwSUvuWF",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İmam Gazali Kalplerin Keşfi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736623562/indir-1_smc58e.jpg",
+      "ariaLabel": "Kalplerin Keşfi: İmam Gazali",
+      "link": "https://drive.google.com/open?id=1-Ti5ZMV2CpSXjA2xuoiqMUhzAFXAjGTN",
       "category": "Ahlak Ve Tasavvuf",
       "showOnHomepage": true
     },
@@ -191,6 +239,22 @@
       "link": "https://drive.google.com/open?id=10gq6FSKIC0GzSxHBcw9BV1V4640o6kcQ",
       "category": "Genel",
       "showOnHomepage": true
-    }
+    },
+    {
+      "name": "Mevdudi Gelin Müslüman Olalım",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736623485/indir_nd8gn3.jpg",
+      "ariaLabel": "Gelin Müslüman Olalım: İmam Mevdudi",
+      "link": "https://drive.google.com/open?id=1R0C9imTBR3BThnVotqz_-svpPhJADTRX",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "1تعليم العربية للناطقين بغيرها - الكتاب الأساسي - ج ",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1736624543/Screenshot_20250111_224210_Drive_pvpohf.jpg",
+      "ariaLabel": "تعليم العربية للناطقين بغيرها - الكتاب الأساسي - ج : ",
+      "link": "https://drive.google.com/open?id=1B8UY9H4KHkkkbDZK7CGi4JHeWCdqgBMK",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
   ]
 }
