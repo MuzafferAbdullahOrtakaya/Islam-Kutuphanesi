@@ -29,6 +29,135 @@
       "showOnHomepage": true
     },
     {
+      "name": "Tefsir İbn Kesir",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tefsir İbn Kesir: İbn Kesir",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsirul Celaleyn",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tefsirul Celaleyn: Celaleddin Mahalli ve Celaleddin Suyuti",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Kur'an Yolu",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kur'an Yolu Tefsiri: Diyanet",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Hak Dini Kur'an Dili",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Elmalılı Hamdi Yazır Tefsiri: Elmalılı Hamdi Yazır",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Kurtubi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tefsir Kurtubi: El-Kurtubi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Razi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mefatihul Gayb: Fahreddin er-Razi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Beydavi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Envâru't-Tenzîl: Kadı Beydavi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Ebu's Suud",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tefsir Ebu's Suud: Ebu's Suud Efendi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Nesefi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Medarikut Tenzil: Nesefi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Maturidi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Te'vilat: İmam Maturidi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Zemahşeri",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Keşşaf: Zemahşeri",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Bursalı İsmail Hakkı",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Ruhu'l Beyan: Bursalı İsmail Hakkı",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Mevdudi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tefhimul Kur'an: Mevdudi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Mustafa İslamoğlu",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hayat Kitabı Kur'an: Mustafa İslamoğlu",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Ali Ünal",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kur'an-ı Kerim ve Açıklamalı Meali: Ali Ünal",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tefsir Süleyman Ateş",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Yüce Kur’an’ın Çağdaş Tefsiri: Süleyman Ateş",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+
+    {
       "_comment": "Hadis Kitapları",
       "anahtar": "Hadis"
     },
@@ -113,6 +242,86 @@
       "showOnHomepage": true
     },
     {
+      "name": "Müşkülül Asar",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Müşkülül Asar: Tahavi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Muhtasaru Sahih Buhari",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Muhtasaru Sahih Buhari: Zübeyr",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sahih İbn Huzeyme",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sahih İbn Huzeyme: İbn Huzeyme",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sahih İbn Hibban",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sahih İbn Hibban: İbn Hibban",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mustedrak el-Hakim",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Mustedrak Ale's-Sahihayn: Hakim en-Neysaburi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Müsned Ebu Yala",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Müsned Ebu Yala: Ebu Yala el-Mevsıli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Şuabul İman",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Şuabul İman: Beyhaki",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Camiu's Sağir",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Camiu's Sağir: Suyuti",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sünen-i Darekutni",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sünen-i Darekutni: Darekutni",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tergib ve Terhib",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tergib ve Terhib: El-Munziri",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
       "_comment": "Akide Kitapları",
       "anahtar": "Akide"
     },
@@ -149,6 +358,127 @@
       "showOnHomepage": true
     },
     {
+      "name": "Akaid en-Nesefiye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Akaid en-Nesefiye: Nesefi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Şerhu't Tahaviye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Şerhu't Tahaviye: İbn Ebi'l İzz",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Fıkhul Ebsat",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Fıkhul Ebsat: Ebu Hanife",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kitabu't Tevhid (Maturidi)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kitabu't Tevhid: İmam Maturidi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Akaid-i Adudiyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Akaid-i Adudiyye: Adududdin el-İci",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Akidetul Tahaviyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Akidetul Tahaviyye: İmam Tahavi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Şerh-ul Akaid en-Nesefiye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Şerh-ul Akaid en-Nesefiye: Taftazani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Makalatul İslamiyyin",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Makalatul İslamiyyin: Ebul Hasan el-Eşari",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Şerh el-Akidetul Vasıtiyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Şerh el-Akidetul Vasıtiyye: İbn Teymiye",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tedmuriyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Akidetut Tedmuriyye: İbn Teymiye",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El İbane an Usuli'd Diyane",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El İbane: Ebul Hasan el-Eşari",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Lum'atul İtikad",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Lum'atul İtikad: İbn Kudame",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "En-Nubuvve (Maturidi)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "En-Nubuvve: Ebu Mansur el-Maturidi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El-Huce fi Beyani'l Mahce",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Huce fi Beyani'l Mahce: El-Laleka-i",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Akaid Nesefi Tercümesi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Akaid Nesefi Tercümesi: Mehmet (?)",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+
+    {
       "_comment": "Fıkıh Kitapları",
       "anahtar": "Fıkıh"
     },
@@ -169,6 +499,151 @@
       "showOnHomepage": true
     },
     {
+      "name": "Bidayetül Müctehid",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Bidayetül Müctehid: İbn Rüşd",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El-Mebsut",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Mebsut: Serahsi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fethu'l Kadir",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fethu'l Kadir: İbn Hümam",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Umm",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Umm: İmam Şafii",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Muğni",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Muğni: İbn Kudame",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Havi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Havi: El-Maverdi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Zadül Mustakni",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Zadül Mustakni: Musa b. Ahmed el-Hacavi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El İhtiyar",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El İhtiyar li Ta'lilil Muhtar: Abdullah b. Mahmud el-Mavsili",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tuhfetül Muhtac",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tuhfetül Muhtac: İbn Hacer el-Heytemi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mülteka'l Ebhur",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mülteka'l Ebhur: İbrahim el-Halebi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Menar fi Usulil Fıkh",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Menar fi Usulil Fıkh: Nesefi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Metn-i Vikaye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Metn-i Vikaye: Ömer b. Sadeddin",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kenzud Dekâik",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kenzud Dekâik: El Nesefi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tebyinu'l Hakayık",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tebyinu'l Hakayık: Zeylaî",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Durrul Muhtar",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Durrul Muhtar: Alaeddin el-Haskefi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fetava Hindiyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fetava Hindiyye: Nureddin et-Tırağay",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fetava-i Tatarhaniyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fetava-i Tatarhaniyye",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fetava Kadıhan",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fetava Kadıhan: Hasan b. Mansur el-Özücendî",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+
+    {
       "_comment": "Siyer Kitapları",
       "anahtar": "Siyer"
     },
@@ -180,6 +655,159 @@
       "category": "Siyer",
       "showOnHomepage": true
     },
+    {
+      "name": "Siyer İbn Hişam",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Siyer İbn Hişam: İbn Hişam",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Siyer İbn İshak",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Siyer İbn İshak: İbn İshak",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Siyer Halebiye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Siyer Halebiye: Ali b. Burhaneddin",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Siyer Asım Köksal",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Peygamberimizin Hayatı: Asım Köksal",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Delailün Nübüvve (Beyhaki)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Delailün Nübüvve: Beyhaki",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Delailün Nübüvve (Ebu Naim)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Delailün Nübüvve: Ebu Nuaym el-İsfahani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Peygamberimizin Hayatı (Salih Suruç)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Peygamberimizin Hayatı: Salih Suruç",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Hz. Muhammed'in Hayatı (Martin Lings)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hz. Muhammed'in Hayatı: Martin Lings",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sîretu'r Rasûl",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sîretu'r Rasûl: Mustafa as-Sibâî",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Bidaye ve'n Nihaye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Bidaye ve'n Nihaye: İbn Kesir",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fıkhu's Siyre",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fıkhu's Siyre: Muhammed el-Gazali",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sîretu'n Nebi (Nedvi)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sîretu'n Nebi: Ebu'l Hasan en-Nedvi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "ar-Raheekul Makhtum",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "ar-Raheekul Makhtum: Safiyurrahman el-Mübarekfurî",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Asr-ı Saadet (Asım Köksal)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Asr-ı Saadet: Asım Köksal",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mevahib-i Ledüniyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mevahib-i Ledüniyye: Kastalani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Peygamberimizin Hayatı (Ömer Nasuhi Bilmen)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hz. Muhammed'in Hayatı: Ömer Nasuhi Bilmen",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Çöle İnen Nur",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Çöle İnen Nur: Necip Fazıl Kısakürek",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Peygamberin Sîreti",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Peygamberin Sîreti: Tarık Ramazan",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sîretu'n Nebi (Shibli Nomani)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sîretu'n Nebi: Şiblî Numânî",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+
     {
       "_comment": "Ahlak Ve Tasavvuf Kitapları",
       "anahtar": "Ahlak Ve Tasavvuf"
@@ -201,6 +829,151 @@
       "showOnHomepage": true
     },
     {
+      "name": "İhyau Ulumiddin",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İhyau Ulumiddin: İmam Gazali",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fütuhat-ı Mekkiye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fütuhat-ı Mekkiye: İbn Arabi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mektubat (İmam Rabbani)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mektubat: İmam Rabbani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mesnevi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mesnevi: Mevlana Celaleddin Rumi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Risale-i Kuşeyri",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Risale-i Kuşeyri: Kuşeyri",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Ahlak-ı Alai",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Ahlak-ı Alai: Kınalızade Ali Efendi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Edebü'd Dunya ve'd Din",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Edebü'd Dunya ve'd Din: Maverdi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kimya-yı Saadet",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kimya-yı Saadet: İmam Gazali",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Makalat (Hacı Bektaş Veli)",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Makalat: Hacı Bektaş Veli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Nefahatül Üns",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Nefahatül Üns: Abdurrahman Cami",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Miftahul Felah",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Miftahul Felah: İbn Ataullah el-İskenderi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Minhacül Abidin",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Minhacül Abidin: İmam Gazali",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Avârifu'l-Meârif",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Avârifu'l-Meârif: Şehabeddin Sühreverdi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Reşahat",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Reşahat: Fâkîh Ahmed",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Tarikat-ı Muhammediyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tarikat-ı Muhammediyye: İmam Birgivi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Divan-ı Yunus Emre",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Divan-ı Yunus Emre: Yunus Emre",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Nasihatü'l Müluk",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Nasihatü'l Müluk: İmam Gazali",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kutu'l Kulub",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kutu'l Kulub: Ebu Talib el-Mekki",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+
+    {
       "_comment": "Dua Ve Zikir Kitapları",
       "anahtar": "Dua Ve Zikir"
     },
@@ -212,6 +985,151 @@
       "category": "Dua Ve Zikir",
       "showOnHomepage": true
     },
+    {
+      "name": "Hisnul Müslim",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hisnul Müslim: Sa'd b. Ali el-Kahtani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Delailu'l-Hayrat",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Delailu'l-Hayrat: el-Cezuli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El Virdül Lâtif",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El Virdül Lâtif: İmam Haddad",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Cevşenül Kebir",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Cevşenül Kebir",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Hizbül Bahr",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hizbül Bahr: Ebu'l Hasan eş-Şazeli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Hizbün Nasr",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hizbün Nasr: Ebu'l Hasan eş-Şazeli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Salat-ı Tefriciye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Salat-ı Tefriciye",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Evrad-ı Şazeliye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Evrad-ı Şazeliye: Ebu'l Hasan eş-Şazeli",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Evrad-ı Kadiriyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Evrad-ı Kadiriyye: Abdulkadir Geylani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Evrad-ı Nakşibendiyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Evrad-ı Nakşibendiyye: Bahauddin Nakşibend",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Hizb-i A'zam",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Hizb-i A'zam: Molla Ali el-Kari",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Celcelutiye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Celcelutiye: İmam Ali (r.a.)'ya isnad edilir",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Evrad-ı Halvetiyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Evrad-ı Halvetiyye: Yahya Şirvani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Dualar ve Zikirler",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Dualar ve Zikirler: Osman Nuri Topbaş",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Dua ve Zikir Hazinesi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Dua ve Zikir Hazinesi: Halil İbrahim Kutlu",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Fütuhul Gayb",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Fütuhul Gayb: Abdulkadir Geylani",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Mecmuatu'l Ahzab",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Mecmuatu'l Ahzab: Çeşitli Müellifler",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El-Ezkar",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Ezkar: İmam Nevevi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Dua Ve Zikir",
+      "showOnHomepage": true
+    },
+
     {
       "_comment": "Genel Kitaplar",
       "anahtar": "Genel"
@@ -253,6 +1171,126 @@
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
       "ariaLabel": "Arapça Öğrenimi Yabancılar İçin - Temel Kitap - Cilt 1 : ",
       "link": "https://drive.google.com/open?id=1B8UY9H4KHkkkbDZK7CGi4JHeWCdqgBMK",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam'da Modernleşme",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam'da Modernleşme: Şerif Mardin",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam ve Batı",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam ve Batı: Bernard Lewis",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Barbar, Modern, Medeni",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Barbar, Modern, Medeni: İbrahim Kalın",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam Manifestosu",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam Manifestosu: Ali Şeriati",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam'da İktisat",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam'da İktisat: M. Nejatullah Siddiqi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kur'an'ın Tarihsel Okunuşu",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Kur'an'ın Tarihsel Okunuşu: Fazlur Rahman",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "El-Ahkamü's Sultaniyye",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "El-Ahkamü's Sultaniyye: Maverdi",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam'da Siyasal Düşünce",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam'da Siyasal Düşünce: Ali Bulaç",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Bu Ülke",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Bu Ülke: Cemil Meriç",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Düşünce Tarihi: İslam Felsefesi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Düşünce Tarihi: İslam Felsefesi: Henry Corbin",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "The Road to Mecca",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "The Road to Mecca: Muhammed Asad",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam'da Bilim ve Teknoloji Tarihi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam'da Bilim ve Teknoloji Tarihi: Fuat Sezgin",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslami Hareket Metodu",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslami Hareket Metodu: Abdullah Azzam",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "İslam ve İlim",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "İslam ve İlim: Seyyid Hüseyin Nasr",
+      "link": "https://drive.google.com/open?id=111111111",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Manevi Arayışlar",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Manevi Arayışlar: Mustafa Öztürk",
+      "link": "https://drive.google.com/open?id=111111111",
       "category": "Genel",
       "showOnHomepage": true
     }
