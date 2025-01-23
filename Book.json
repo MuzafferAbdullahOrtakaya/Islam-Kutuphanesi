@@ -5,28 +5,28 @@
       "anahtar": "Tefsir"
     },
     {
-        "name": "El Taberi",
-        "imageUrl": "https://www.goodreads.com/book/show/25850434-taberi-tefsiri",
-        "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
-        "link": "https://drive.google.com/open?id=13CuRGjv9RNsBwJHEsCQkN0z5xGTCc_Cp",
-        "category": "Tefsir",
-        "showOnHomepage": true
+      "name": "El Taberi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
+      "link": "https://drive.google.com/open?id=13CuRGjv9RNsBwJHEsCQkN0z5xGTCc_Cp",
+      "category": "Tefsir",
+      "showOnHomepage": true
     },
     {
-        "name": "Besairul Kuran",
-        "imageUrl": "https://www.goodreads.com/book/show/25850434-taberi-tefsiri",
-        "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
-        "link": "https://drive.google.com/open?id=17WUdsy9_u-PSoDrPpbVnosQFDsUGZgcj",
-        "category": "Tefsir",
-        "showOnHomepage": true
+      "name": "Besairul Kuran",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
+      "link": "https://drive.google.com/open?id=17WUdsy9_u-PSoDrPpbVnosQFDsUGZgcj",
+      "category": "Tefsir",
+      "showOnHomepage": true
     },
     {
-        "name": "Sufyan Es Sevri Tefsiri",
-        "imageUrl": "https://www.yenicerikitabevi.com/urun/taberi-tefsiri-camiul-beyan-an-tevili-ayil-kuran-1-cilt-muhammed-b-cerir-et-taberi-9786256400757",
-        "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
-        "link": "https://drive.google.com/open?id=1OWoDlbl1Eay6svnwcdyrYbtEbkJYTLwn",
-        "category": "Tefsir",
-        "showOnHomepage": true
+      "name": "Sufyan Es Sevri Tefsiri",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
+      "link": "https://drive.google.com/open?id=1OWoDlbl1Eay6svnwcdyrYbtEbkJYTLwn",
+      "category": "Tefsir",
+      "showOnHomepage": true
     },
     {
       "_comment": "Hadis Kitapları",
