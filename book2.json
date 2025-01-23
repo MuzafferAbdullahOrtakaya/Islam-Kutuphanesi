@@ -1,0 +1,128 @@
+{
+  "books": [
+    {
+      "_comment": "Tefsir Kitapları",
+      "anahtar": "Tefsir"
+    },
+    {
+      "name": "El Taberi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
+      "link": "https://drive.google.com/uc?export=download&id=13CuRGjv9RNsBwJHEsCQkN0z5xGTCc_Cp",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Besairul Kuran",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
+      "link": "https://drive.google.com/uc?export=download&id=17WUdsy9_u-PSoDrPpbVnosQFDsUGZgcj",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sufyan Es Sevri Tefsiri",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
+      "link": "https://drive.google.com/uc?export=download&id=1OWoDlbl1Eay6svnwcdyrYbtEbkJYTLwn",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "_comment": "Hadis Kitapları",
+      "anahtar": "Hadis"
+    },
+    {
+      "name": "Riyazü´s Salihin",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Riyazü´s Salihin: İmam Nevevi",
+      "link": "https://drive.google.com/uc?export=download&id=10tABdrDNrwbkeZnmxOZUtfrPwaVmOnXb",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sahih Buhari",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sahih Buhari: İmam Buhari",
+      "link": "https://drive.google.com/uc?export=download&id=1bKHELsNfB94XQB9ZR_uGKwjxx09OMMXy",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sahih Müslim",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sahih Müslim: İmam Müslim",
+      "link": "https://drive.google.com/uc?export=download&id=1A693p6Nj7mQVKKdopDAfIotmwmABgGo2",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Süneni Ebu Davud",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Süneni Ebu Davud: Ebu Davud",
+      "link": "https://drive.google.com/uc?export=download&id=1Ii8l_QF0N0bJxtoLPA7WiHZ2dxBTpwKa",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Süneni İbn Mace",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Süneni İbn Mace: İbn Mace",
+      "link": "https://drive.google.com/uc?export=download&id=1cZB3u2bS_3tz4SLwbMqOqToDU_rsi2BK",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Süneni Tirmizi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Süneni Tirmizi: İmam Tirmizi",
+      "link": "https://drive.google.com/uc?export=download&id=1VYSO321YTfPbMAxLBaDpaceKngdJMTvZ",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Süneni Nesai",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Süneni Nesai: İmam Nesai",
+      "link": "https://drive.google.com/uc?export=download&id=1wQXUoYyLYo7iWplYDEFOkwcG9cxoQm5h",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Müsned-i Ahmed Bin Hanbel",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Müsned-i Ahmed Bin Hanbel: İmam Ahmed",
+      "link": "https://drive.google.com/uc?export=download&id=1XZYr1aH0B6iYEhUu_ArGLY7ERmsbfjFX",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Muvatta",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Muvatta: İmam Malik",
+      "link": "https://drive.google.com/uc?export=download&id=1hh-15RGUoE28k8tEx48RupsfEm0eXIht",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Sünen-i Darimi",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Sünen-i Darimi: İmam Darimi",
+      "link": "https://drive.google.com/uc?export=download&id=1ncZROR1YRWq9l5ZXWPPxtKaTq9iWhwZ0",
+      "category": "Hadis",
+      "showOnHomepage": true
+    },
+    {
+      "_comment": "Akide Kitapları",
+      "anahtar": "Akide"
+    },
+    {
+      "name": "Tevhid Risaleleri Külliyatı",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737150832/Besariul_Kuran_20250118_001345_0000_jf3ttf.png",
+      "ariaLabel": "Tevhid Rİsaleleri Külliyatı: Muhammed Bin Abdulvehhab",
+      "link": "https://drive.google.com/uc?export=download&id=1Pe9tXzp6Gm7Q-TBxjzUv6X-HCZjdaaqn",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "name": "
