@@ -29,202 +29,34 @@
       "showOnHomepage": true
     },
     {
-      "name": "Tefsir ibn Kathir",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ibn_Kathir.png/440px-Ibn_Kathir.png",
-      "ariaLabel": "Tefsir ibn Kathir: İbn Kathir",
-      "link": "https://archive.org/download/TefsirIbnKathir/TefsirIbnKathir.pdf",
+      "name": "Kur'an Yolu Türkçe Meal ve Tefsir",
+      "imageUrl": "https://example.com/kuranyolu.jpg",
+      "ariaLabel": "Download Kur'an Yolu Tefsiri",
+      "downloadUrl": "https://yayin.diyanet.gov.tr/documents/10179/2336288/KuranYolu1.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
     {
-      "name": "Jami' al-Bayan",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Al-Tabari.png",
-      "ariaLabel": "Jami' al-Bayan: Al-Tabari",
-      "link": "https://archive.org/download/JamiAlBayan/JamiAlBayan.pdf",
+      "name": "Tefhim'ul Kur'an Tefsiri - Ebu'l A'la Mevdudi",
+      "imageUrl": "https://example.com/tefhimulkuran.jpg",
+      "ariaLabel": "Download Tefhim'ul Kur'an Tefsiri",
+      "downloadUrl": "https://archive.org/download/tefhimul-kuran-tefsiri-ebul-ala-mevdudi-7-cilt-takim/Tefhim'ul-Kur'an-Tefsiri_Ebu'l-A'la-Mevdudi-Cilt_01_(www.TheChoice.one).pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
     {
-      "name": "Tafsir al-Qurtubi",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Al-Qurtubi.png",
-      "ariaLabel": "Tafsir al-Qurtubi: Al-Qurtubi",
-      "link": "https://archive.org/download/TafsirAlQurtubi/TafsirAlQurtubi.pdf",
+      "name": "Elmalılı Muhammed Hamdi Yazır - Hak Dini Kur'an Dili",
+      "imageUrl": "https://example.com/hakdinikurandili.jpg",
+      "ariaLabel": "Download Elmalılı Muhammed Hamdi Yazır Tefsiri",
+      "downloadUrl": "https://archive.org/download/ElmaliliMuhammedHamdiYazir-HakDiniKuranDili/HakDiniKuranDili.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
     {
-      "name": "Tafsir al-Jalalayn",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jalalayn.png",
-      "ariaLabel": "Tafsir al-Jalalayn: Jalalayn",
-      "link": "https://archive.org/download/TafsirAlJalalayn/TafsirAlJalalayn.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Mazhari",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Al-Mazhari.png",
-      "ariaLabel": "Tafsir al-Mazhari: Qadi Thanaullah Panipati",
-      "link": "https://archive.org/download/TafsirAlMazhari/TafsirAlMazhari.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir Fi Zilal al-Quran",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/FiZilal.png",
-      "ariaLabel": "Tafsir Fi Zilal al-Quran: Sayyid Qutb",
-      "link": "https://archive.org/download/FiZilalAlQuran/FiZilalAlQuran.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Munir",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Al-Munir.png",
-      "ariaLabel": "Tafsir al-Munir: Wahbah al-Zuhayli",
-      "link": "https://archive.org/download/TafsirAlMunir/TafsirAlMunir.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir As-Sa'di",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/AsSa'di.png",
-      "ariaLabel": "Tafsir As-Sa'di: Abdur Rahman bin Nasir as-Sa'di",
-      "link": "https://archive.org/download/TafsirAsSadi/TafsirAsSadi.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir ad-Durr al-Manthur",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ad-DurrAlManthur.png",
-      "ariaLabel": "Tafsir ad-Durr al-Manthur: Jalal ad-Din as-Suyuti",
-      "link": "https://archive.org/download/AdDurrAlManthur/AdDurrAlManthur.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir Anwar ul Bayan",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/AnwarUlBayan.png",
-      "ariaLabel": "Tafsir Anwar ul Bayan: Ashiq Ilahi Mirathi",
-      "link": "https://archive.org/download/AnwarUlBayan/AnwarUlBayan.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir Mafatih Al-Ghayb (Al-Tafsir Al-Kabir)",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/MafatihAlGhayb.png",
-      "ariaLabel": "Tafsir Mafatih Al-Ghayb: Fakhr al-Din al-Razi",
-      "link": "https://archive.org/download/MafatihAlGhayb/MafatihAlGhayb.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Ahkam Al-Quran",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/AhkamAlQuran.png",
-      "ariaLabel": "Ahkam Al-Quran: Al-Jassas",
-      "link": "https://archive.org/download/AhkamAlQuran/AhkamAlQuran.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Ma'ariful Quran",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/MaarifulQuran.png",
-      "ariaLabel": "Ma'ariful Quran: Mufti Muhammad Shafi",
-      "link": "https://archive.org/download/MaarifulQuran/MaarifulQuran.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Ruh al-Ma'ani",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/RuhAlMaani.png",
-      "ariaLabel": "Ruh al-Ma'ani: Mahmud al-Alusi",
-      "link": "https://archive.org/download/RuhAlMaani/RuhAlMaani.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir Ibn 'Ajiba",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirIbnAjiba.png",
-      "ariaLabel": "Tafsir Ibn 'Ajiba: Ahmad ibn Ajiba",
-      "link": "https://archive.org/download/TafsirIbnAjiba/TafsirIbnAjiba.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Bahr al-Ulum",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/BahrAlUlum.png",
-      "ariaLabel": "Bahr al-Ulum: Abul Layth Samarqandi",
-      "link": "https://archive.org/download/BahrAlUlum/BahrAlUlum.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Baghawi",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlBaghawi.png",
-      "ariaLabel": "Tafsir al-Baghawi: Al-Baghawi",
-      "link": "https://archive.org/download/TafsirAlBaghawi/TafsirAlBaghawi.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Muharrar",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlMuharrar.png",
-      "ariaLabel": "Tafsir al-Muharrar: Ibn Atiyyah",
-      "link": "https://archive.org/download/TafsirAlMuharrar/TafsirAlMuharrar.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Azhar",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlAzhar.png",
-      "ariaLabel": "Tafsir al-Azhar: Sayyid Qutb",
-      "link": "https://archive.org/download/TafsirAlAzhar/TafsirAlAzhar.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Tabary",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlTabary.png",
-      "ariaLabel": "Tafsir al-Tabary: Al-Tabary",
-      "link": "https://archive.org/download/TafsirAlTabary/TafsirAlTabary.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Kashaf",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlKashaf.png",
-      "ariaLabel": "Tafsir al-Kashaf: Zamakhshari",
-      "link": "https://archive.org/download/TafsirAlKashaf/TafsirAlKashaf.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Nasafi",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlNasafi.png",
-      "ariaLabel": "Tafsir al-Nasafi: Nasafi",
-      "link": "https://archive.org/download/TafsirAlNasafi/TafsirAlNasafi.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Durr al-Manthur",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlDurrAlManthur.png",
-      "ariaLabel": "Tafsir al-Durr al-Manthur: Suyuti",
-      "link": "https://archive.org/download/TafsirAlDurrAlManthur/TafsirAlDurrAlManthur.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Israr",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlIsrar.png",
-      "ariaLabel": "Tafsir al-Israr: Mehmed Akif Ersoy",
-      "link": "https://archive.org/download/TafsirAlIsrar/TafsirAlIsrar.pdf",
-      "category": "Tefsir",
-      "showOnHomepage": true
-    },
-    {
-      "name": "Tafsir al-Mishbah",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/TafsirAlMishbah.png",
-      "ariaLabel": "Tafsir al-Mishbah: M. Quraish Shihab",
-      "link": "https://archive.org/download/TafsirAlMishbah/TafsirAlMishbah.pdf",
+      "name": "İbn Kesir Tefsiri",
+      "imageUrl": "https://example.com/ibnkesir.jpg",
+      "ariaLabel": "Download İbn Kesir Tefsiri",
+      "downloadUrl": "https://archive.org/download/ibnkesir-tefsiri/IbnKesirTefsiri.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
