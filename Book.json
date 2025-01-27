@@ -193,6 +193,14 @@
       "showOnHomepage": true
     },
     {
+      "name": "İhyau Ulumi´d-din",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985327/indir_eo0xkb.jpg",
+      "ariaLabel": "İhyau Ulumi´d-din: İmam Gazali",
+      "link": "https://drive.google.com/open?id=1H0P-B8qUJkebMesFEO6fBc06fd3tIgxV",
+      "category": "Ahlak Ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
       "name": "Kalplerin Keşfi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632202/indir-1_njxl97.jpg",
       "ariaLabel": "Kalplerin Keşfi: İmam Gazali",
@@ -245,6 +253,14 @@
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632204/indir_ww2bjv.jpg",
       "ariaLabel": "Gelin Müslüman Olalım: İmam Mevdudi",
       "link": "https://drive.google.com/open?id=1R0C9imTBR3BThnVotqz_-svpPhJADTRX",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "name": "Kurana Göre Dört Terım",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985956/indir-1_qn0c4b.jpg",
+      "ariaLabel": "Kurana Göre Dört Terım: İmam Mevdudi",
+      "link": "https://drive.google.com/open?id=1-HMXxuQhsYaipQv3Ijv3LWTLvzeOazim",
       "category": "Genel",
       "showOnHomepage": true
     },
