@@ -5,6 +5,7 @@
       "anahtar": "Tefsir"
     },
     {
+      "type": "book",
       "name": "El Taberi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633886/wi_500_dkutlx.jpg",
       "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
@@ -13,6 +14,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Besairul Kuran",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633882/indir_1_cg4v6z.jpg",
       "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
@@ -21,6 +23,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Sufyan Es Sevri Tefsiri",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632214/Screenshot_20250111_223305_Drive_vnzpqc.jpg",
       "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
@@ -33,6 +36,7 @@
       "anahtar": "Hadis"
     },
     {
+      "type": "book",
       "name": "Riyazü´s Salihin",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633872/indir-1_1_e79ogq.jpg",
       "ariaLabel": "Riyazü´s Salihin: İmam Nevevi",
@@ -41,6 +45,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Sahih Buhari",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633873/indir-2_1_dokokv.jpg",
       "ariaLabel": "Sahih Buhari: İmam Buhari",
@@ -49,6 +54,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Sahih Müslim",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633874/indir-3_1_oeljcx.jpg",
       "ariaLabel": "Sahih Müslim: İmam Müslim",
@@ -57,6 +63,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Süneni Ebu Davud",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633873/indir-4_r6h5pc.jpg",
       "ariaLabel": "Süneni Ebu Davud: Ebu Davud",
@@ -65,6 +72,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Süneni İbn Mace",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633877/indir-5_avwsh5.jpg",
       "ariaLabel": "Süneni İbn Mace: İbn Mace",
@@ -73,6 +81,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Süneni Tirmizi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633878/indir-6_xzf1dr.jpg",
       "ariaLabel": "Süneni Tirmizi: İmam Tirmizi",
@@ -81,6 +90,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Süneni Nesai",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633879/indir-7_tbiy53.jpg",
       "ariaLabel": "Süneni Nesai: İmam Nesai",
@@ -89,6 +99,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Müsned-i Ahmed Bin Hanbel",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633880/indir-8_a24ckj.jpg",
       "ariaLabel": "Müsned-i Ahmed Bin Hanbel: İmam Ahmed",
@@ -97,6 +108,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Muvatta",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633881/indir-9_wkwps9.jpg",
       "ariaLabel": "Muvatta: İmam Malik",
@@ -105,6 +117,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Sünen-i Darimi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633866/indir-10_wib9nm.jpg",
       "ariaLabel": "Sünen-i Darimi: İmam Darimi",
@@ -117,14 +130,16 @@
       "anahtar": "Akide"
     },
     {
+      "type": "book",
       "name": "Tevhid Risaleleri Külliyatı",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632204/Screenshot_20250107_211930_Drive_1_ytt9yg.jpg",
       "ariaLabel": "Tevhid Rİsaleleri Külliyatı: Muhammed Bin Abdulvehhab",
-      "link": "https://drive.google.com/open?id=1Pe9tXzp6Gm7Q-TBxjzUv6X-HCZjdaaqn",
+      "link": "https://drive.google.com/open?id=16Fk3r7O5SO83aV3pFp5y1AESwy8a2_Hx",
       "category": "Akide",
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Fıkhul Ekber",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632203/indir-3_f0bxgn.jpg",
       "ariaLabel": "Fıkhul Ekber: İmam Şafi",
@@ -133,6 +148,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Akıdetül Vasıtıyye",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632203/indir-2_ghiy3f.jpg",
       "ariaLabel": "Akıdetul Vasıtıyye: İbn Teymiye",
@@ -141,6 +157,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Usulus Sünne",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737635787/1_org_n6kodb.jpg",
       "ariaLabel": "Usulus Sünne: İmam Ahmed Bin Hanbel",
@@ -153,6 +170,7 @@
       "anahtar": "Fıkıh"
     },
     {
+      "type": "book",
       "name": "Er-Risale",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632205/Screenshot_20250107_211953_Drive_1_pbzgzm.jpg",
       "ariaLabel": "Er-Risale: İmam Şafi",
@@ -161,6 +179,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Muhalla",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737635787/unnamed_v92bwz.jpg",
       "ariaLabel": "Muhalla: İbn Hazm",
@@ -169,10 +188,12 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "_comment": "Siyer Kitapları",
       "anahtar": "Siyer"
     },
     {
+      "type": "book",
       "name": "Zadü´l Mead",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633866/indir-13_j7hihf.jpg",
       "ariaLabel": "Zadü´l Mead: El Cevziyye",
@@ -185,6 +206,7 @@
       "anahtar": "Ahlak Ve Tasavvuf"
     },
     {
+      "type": "book",
       "name": "Esmaül Hüsna",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632206/Screenshot_20250107_212026_Drive_1_wztl9c.jpg",
       "ariaLabel": "Esmaül Hüsna: İmam Gazali",
@@ -193,6 +215,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "İhyau Ulumi´d-din",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985327/indir_eo0xkb.jpg",
       "ariaLabel": "İhyau Ulumi´d-din: İmam Gazali",
@@ -201,6 +224,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Kalplerin Keşfi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632202/indir-1_njxl97.jpg",
       "ariaLabel": "Kalplerin Keşfi: İmam Gazali",
@@ -209,10 +233,12 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "_comment": "Dua Ve Zikir Kitapları",
       "anahtar": "Dua Ve Zikir"
     },
     {
+      "type": "book",
       "name": "Sahih Dua Ve Zikirler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632214/Screenshot_20250108_144926_Drive_pks6ij.jpg",
       "ariaLabel": "Sahih Dua Ve Zikirler: Musataf El-Adevi",
@@ -225,6 +251,7 @@
       "anahtar": "Genel"
     },
     {
+      "type": "book",
       "name": "Müslümanca Düşünme Üzerine Denemeler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633867/indir-14_zmtroa.jpg",
       "ariaLabel": "Müslümanca Düşünme Üzerine Denemeler: Rasim Özdenören",
@@ -233,6 +260,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Doğu İle Batı Arasında İslam",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633867/indir-15_qg0swm.jpg",
       "ariaLabel": "Doğu İle Batı Arasında İslam: Aliya İzzetbegoviç",
@@ -241,6 +269,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Yoldaki İşaretler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633867/indir-16_efv240.jpg",
       "ariaLabel": "Yoldaki İşaretler: Seyid Kutup",
@@ -249,6 +278,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Gelin Müslüman Olalım",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632204/indir_ww2bjv.jpg",
       "ariaLabel": "Gelin Müslüman Olalım: İmam Mevdudi",
@@ -257,6 +287,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Kurana Göre Dört Terım",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985956/indir-1_qn0c4b.jpg",
       "ariaLabel": "Kurana Göre Dört Terım: İmam Mevdudi",
@@ -265,6 +296,7 @@
       "showOnHomepage": true
     },
     {
+      "type": "book",
       "name": "Arapça Öğrenimi Yabancılar İçin",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633872/indir-17_cluyvc.jpg",
       "ariaLabel": "Arapça Öğrenimi Yabancılar İçin - Temel Kitap - Cilt 1 : ",
@@ -272,17 +304,21 @@
       "category": "Genel",
       "showOnHomepage": true
     },
+    
     {
   "videos": [
     {
+      "type": "video",
       "title": "Video 1",
       "src": "https://www.youtube.com/embed/HMMdiZBVOVE"
     },
     {
+      "type": "video",
       "title": "Video 2",
       "src": "https://www.youtube.com/embed/QkNhQZHlYa8"
     },
     {
+      "type": "video",
       "title": "Video 3",
       "src": "https://www.youtube.com/embed/jbFo9Invjro"
     }
