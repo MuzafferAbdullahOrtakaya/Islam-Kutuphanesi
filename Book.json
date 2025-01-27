@@ -271,6 +271,20 @@
       "link": "https://drive.google.com/open?id=1B8UY9H4KHkkkbDZK7CGi4JHeWCdqgBMK",
       "category": "Genel",
       "showOnHomepage": true
+    },
+    {
+  "videos": [
+    {
+      "title": "Video 1",
+      "src": "https://www.youtube.com/embed/HMMdiZBVOVE"
+    },
+    {
+      "title": "Video 2",
+      "src": "https://www.youtube.com/embed/QkNhQZHlYa8"
+    },
+    {
+      "title": "Video 3",
+      "src": "https://www.youtube.com/embed/jbFo9Invjro"
     }
   ]
 }
