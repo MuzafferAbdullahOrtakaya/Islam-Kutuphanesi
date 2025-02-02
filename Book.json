@@ -304,25 +304,5 @@
       "category": "Genel",
       "showOnHomepage": true
     }
-  ],
-  "videos": [
-    {
-      "type": "video",
-      "title": "Video 1",
-      "src": "https://www.youtube.com/embed/HMMdiZBVOVE"
-      "showOnHomepage": true
-    },
-    {
-      "type": "video",
-      "title": "Video 2",
-      "src": "https://www.youtube.com/embed/QkNhQZHlYa8"
-      "showOnHomepage": true
-    },
-    {
-      "type": "video",
-      "title": "Video 3",
-      "src": "https://www.youtube.com/embed/jbFo9Invjro"
-      "showOnHomepage": true
-    }
   ]
 }
