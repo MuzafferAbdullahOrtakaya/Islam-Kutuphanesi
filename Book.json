@@ -9,7 +9,7 @@
       "name": "El Taberi",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633886/wi_500_dkutlx.jpg",
       "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
-      "link": "https://drive.google.com/open?id=13CuRGjv9RNsBwJHEsCQkN0z5xGTCc_Cp",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Taberi%20Tefsiri.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
@@ -18,7 +18,7 @@
       "name": "Besairul Kuran",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633882/indir_1_cg4v6z.jpg",
       "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
-      "link": "https://drive.google.com/open?id=17WUdsy9_u-PSoDrPpbVnosQFDsUGZgcj",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Bes%C3%A2iru%27l%20Kur%27an.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
@@ -27,7 +27,70 @@
       "name": "Sufyan Es Sevri Tefsiri",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632214/Screenshot_20250111_223305_Drive_vnzpqc.jpg",
       "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
-      "link": "https://drive.google.com/open?id=1OWoDlbl1Eay6svnwcdyrYbtEbkJYTLwn",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Tefsiru%27l%20Hadis.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Tefsirü'l-Kur'ânü'l-Azîm",
+      "imageUrl": "https://example.com/image/tefsirul_kuranul_azim.jpg",
+      "ariaLabel": "Tefsirü'l-Kur'ânü'l-Azîm: İbn Kesir",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/B%C3%BCy%C3%BCk%20Kur%27an%20Tefsiri.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "El-Câmiu li-Ahkâmi'l-Kur'ân",
+      "imageUrl": "https://example.com/image/el_camiu_li_ahkamil_kuran.jpg",
+      "ariaLabel": "El-Câmiu li-Ahkâmi'l-Kur'ân: İmam Kurtubi",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/El-Camiu%20li-Ahkami%27l-Kur%27an.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Mefâtîhu'l-Ğayb",
+      "imageUrl": "https://example.com/image/mefatihul_ğayb.jpg",
+      "ariaLabel": "Mefâtîhu'l-Ğayb: Fahreddin er-Razi",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Tefsir-i%20Kebir%20Mef%C3%A2tihu%E2%80%99l-Gayb.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Tefsirü'l-Celaleyn",
+      "imageUrl": "https://example.com/image/tefsirul_celaleyn.jpg",
+      "ariaLabel": "Tefsirü'l-Celaleyn: Celaleddin el-Mahalli ve Celaleddin es-Suyuti",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Tefsir%27ul%20Mesaj.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Ed-Dürrü'l-Mensûr",
+      "imageUrl": "https://example.com/image/ed_durrul_mensur.jpg",
+      "ariaLabel": "Ed-Dürrü'l-Mensûr: Celaleddin es-Suyuti",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Esbab-%C4%B1%20N%C3%BCzul.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Ahkâmu'l-Kur'ân",
+      "imageUrl": "https://example.com/image/ahkamul_kuran.jpg",
+      "ariaLabel": "Ahkâmu'l-Kur'ân: İmam Şafi",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Ahk%C3%A2m%20Tefsiri.pdf",
+      "category": "Tefsir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Tefsirü'l-Maturidi",
+      "imageUrl": "https://example.com/image/tefsirul_maturidi.jpg",
+      "ariaLabel": "Tefsirü'l-Maturidi: İmam Maturidi",
+      "link": "https://archive.org/download/TefsirKitaplar26Kitap/Tefsiru%27l%20Hadis.pdf",
       "category": "Tefsir",
       "showOnHomepage": true
     },
@@ -133,8 +196,8 @@
       "type": "book",
       "name": "Tevhid Risaleleri Külliyatı",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632204/Screenshot_20250107_211930_Drive_1_ytt9yg.jpg",
-      "ariaLabel": "Tevhid Rİsaleleri Külliyatı: Muhammed Bin Abdulvehhab",
-      "link": "https://drive.google.com/open?id=16Fk3r7O5SO83aV3pFp5y1AESwy8a2_Hx",
+      "ariaLabel": "Tevhid Risaleleri Külliyatı: Muhammed Bin Abdulvehhab",
+      "link": "https://archive.org/download/TevhidRisaleleriKulliyati/Tevhid%20Risaleleri%20K%C3%BClliyat%C4%B1.pdf",
       "category": "Akide",
       "showOnHomepage": true
     },
@@ -142,26 +205,80 @@
       "type": "book",
       "name": "Fıkhul Ekber",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632203/indir-3_f0bxgn.jpg",
-      "ariaLabel": "Fıkhul Ekber: İmam Şafi",
-      "link": "https://drive.google.com/open?id=1-Mg1hS57ektiXTE79rZU_kLobod84pGK",
+      "ariaLabel": "Fıkhul Ekber: İmam Ebu Hanife",
+      "link": "https://archive.org/download/FikhulEkber/Fıkhul%20Ekber.pdf",
       "category": "Akide",
       "showOnHomepage": true
     },
     {
       "type": "book",
-      "name": "Akıdetül Vasıtıyye",
+      "name": "Akidetü'l-Vasıtıyye",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632203/indir-2_ghiy3f.jpg",
-      "ariaLabel": "Akıdetul Vasıtıyye: İbn Teymiye",
-      "link": "https://drive.google.com/open?id=1Pe9tXzp6Gm7Q-TBxjzUv6X-HCZjdaaqn",
+      "ariaLabel": "Akidetü'l-Vasıtıyye: İbn Teymiye",
+      "link": "https://archive.org/download/AkidetulVasitiyye/Akidetü'l-Vasıtıyye.pdf",
       "category": "Akide",
       "showOnHomepage": true
     },
     {
       "type": "book",
-      "name": "Usulus Sünne",
+      "name": "Usulü's-Sünne",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737635787/1_org_n6kodb.jpg",
-      "ariaLabel": "Usulus Sünne: İmam Ahmed Bin Hanbel",
-      "link": "https://drive.google.com/open?id=1lgrLKSWymm8GJijpMKpUWC3bwUGfDuCK",
+      "ariaLabel": "Usulü's-Sünne: İmam Ahmed Bin Hanbel",
+      "link": "https://archive.org/download/UsulusSunne/Usulü's-Sünne.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "El-Veciz fi Akideti's-Selefi's-Salih",
+      "imageUrl": "https://example.com/image/el_veciz.jpg",
+      "ariaLabel": "El-Veciz fi Akideti's-Selefi's-Salih: Abdullah b. Abdulhamid el-Eseri",
+      "link": "https://archive.org/download/SelefiSalihinAkidesi/selefi%20salihin%20akidesi.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Ehl-i Sünnet ve'l-Cemaat Selef-i Salihîn Akîdesi",
+      "imageUrl": "https://example.com/image/ehli_sunnet_ve_cemaat.jpg",
+      "ariaLabel": "Ehl-i Sünnet ve'l-Cemaat Selef-i Salihîn Akîdesi: Dr. Ömer b. Süleyman el-Aşkar",
+      "link": "https://www.muslim-library.com/dl/books/tr1116.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Gençlere Akaid Dersleri",
+      "imageUrl": "https://example.com/image/genclere_akaid_dersleri.jpg",
+      "ariaLabel": "Gençlere Akaid Dersleri: İmam Tahavi",
+      "link": "https://d1.islamhouse.com/data/tr/ih_books/single/tk_genclere_akaid_dersleri.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Vasıtıyye Akidesi Şerhi",
+      "imageUrl": "https://example.com/image/vasitiye_akidesi_serhi.jpg",
+      "ariaLabel": "Vasıtıyye Akidesi Şerhi: İbn Teymiye",
+      "link": "https://cdn.byenah.com/contents/5186/tk_vasitiye_akidesi_serhi.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İslam İnancının Temelleri",
+      "imageUrl": "https://example.com/image/islam_inancinin_temelleri.jpg",
+      "ariaLabel": "İslam İnancının Temelleri: İmam Ömer Nesefi",
+      "link": "https://www.muharrembalci.com/hukukdunyasi/alintilar/1277.pdf",
+      "category": "Akide",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Akaid Dersleri",
+      "imageUrl": "https://example.com/image/akaid_dersleri.jpg",
+      "ariaLabel": "Akaid Dersleri: Ebu Hanzala",
+      "link": "https://ia801602.us.archive.org/10/items/kitap_pdf/3_Akaid_Dersleri.pdf",
       "category": "Akide",
       "showOnHomepage": true
     },
@@ -174,7 +291,7 @@
       "name": "Er-Risale",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632205/Screenshot_20250107_211953_Drive_1_pbzgzm.jpg",
       "ariaLabel": "Er-Risale: İmam Şafi",
-      "link": "https://drive.google.com/open?id=1t4EiDfQVVMn-yjC7UZiJz0KAGuYBlgMa",
+      "link": "https://archive.org/download/ErRisaleImamSafii/Er-Risale%20-%20%C4%B0mam%20%C5%9Eafi%C3%AE.pdf",
       "category": "Fıkıh",
       "showOnHomepage": true
     },
@@ -183,44 +300,196 @@
       "name": "Muhalla",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737635787/unnamed_v92bwz.jpg",
       "ariaLabel": "Muhalla: İbn Hazm",
-      "link": "https://drive.google.com/open?id=1QrUPS_dGs0o-BkagBPj4bTcGGm7TresH",
+      "link": "https://archive.org/download/MuhallaIbnHazm/Muhalla%20-%20%C4%B0bn%20Hazm.pdf",
       "category": "Fıkıh",
       "showOnHomepage": true
     },
     {
       "type": "book",
+      "name": "El-Mebsut",
+      "imageUrl": "https://example.com/image/el_mebsut.jpg",
+      "ariaLabel": "El-Mebsut: İmam Serahsi",
+      "link": "https://archive.org/download/ElMebsutImamSerahsi/El-Mebsut%20-%20%C4%B0mam%20Serahsi.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "El-Umm",
+      "imageUrl": "https://example.com/image/el_umm.jpg",
+      "ariaLabel": "El-Umm: İmam Şafii",
+      "link": "https://archive.org/download/ElUmmImamSafii/El-Umm%20-%20%C4%B0mam%20%C5%9Eafi%C3%AE.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "El-Hidaye",
+      "imageUrl": "https://example.com/image/el_hidaye.jpg",
+      "ariaLabel": "El-Hidaye: İmam Merginani",
+      "link": "https://archive.org/download/ElHidayeImamMerginani/El-Hidaye%20-%20%C4%B0mam%20Merginani.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Fetava-i Hindiyye",
+      "imageUrl": "https://example.com/image/fetava_i_hindiyye.jpg",
+      "ariaLabel": "Fetava-i Hindiyye: Derleme",
+      "link": "https://archive.org/download/FetavaIHindiyye/Fetava-i%20Hindiyye.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İslam Fıkhı Ansiklopedisi",
+      "imageUrl": "https://example.com/image/islam_fikhi_ansiklopedisi.jpg",
+      "ariaLabel": "İslam Fıkhı Ansiklopedisi: Vehbe Zuhayli",
+      "link": "https://archive.org/download/IslamFikhiAnsiklopedisi/Islam%20F%C4%B1kh%C4%B1%20Ansiklopedisi%20-%20Vehbe%20Zuhayli.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Delilleriyle Hanefi Fıkhı",
+      "imageUrl": "https://example.com/image/delilleriyle_hanefi_fikhi.jpg",
+      "ariaLabel": "Delilleriyle Hanefi Fıkhı: Esad Muhammed Said Es-Sağırci",
+      "link": "https://archive.org/download/DelilleriyleHanefiFikhi/Delilleriyle%20Hanefi%20F%C4%B1kh%C4%B1%20-%20Esad%20Muhammed%20Said%20Es-Sa%C4%9F%C4%B1rci.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Delilleriyle Şafii Fıkhı",
+      "imageUrl": "https://example.com/image/delilleriyle_safii_fikhi.jpg",
+      "ariaLabel": "Delilleriyle Şafii Fıkhı: Ebu Şucca",
+      "link": "https://archive.org/download/DelilleriyleSafiiFikhi/Delilleriyle%20%C5%9Eafii%20F%C4%B1kh%C4%B1%20-%20Ebu%20%C5%9Eucca.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İslam'da Evlilik ve Aile",
+      "imageUrl": "https://example.com/image/islmda_evlilik_ve_aile.jpg",
+      "ariaLabel": "İslam'da Evlilik ve Aile: Derleme",
+      "link": "https://archive.org/download/IslamdaEvlilikVeAile/Islamda%20Evlilik%20ve%20Aile.pdf",
+      "category": "Fıkıh",
+      "showOnHomepage": true
+    },
+    {
       "_comment": "Siyer Kitapları",
       "anahtar": "Siyer"
     },
     {
       "type": "book",
-      "name": "Zadü´l Mead",
+      "name": "Zadü'l Mead",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633866/indir-13_j7hihf.jpg",
-      "ariaLabel": "Zadü´l Mead: El Cevziyye",
+      "ariaLabel": "Zadü'l Mead: İbn Kayyim el-Cevziyye",
       "link": "https://drive.google.com/open?id=1ZcaeiAMebIYwE5kxA9452fNC_aEPlKbt",
       "category": "Siyer",
       "showOnHomepage": true
     },
     {
-      "_comment": "Ahlak Ve Tasavvuf Kitapları",
-      "anahtar": "Ahlak Ve Tasavvuf"
-    },
-    {
       "type": "book",
-      "name": "Esmaül Hüsna",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632206/Screenshot_20250107_212026_Drive_1_wztl9c.jpg",
-      "ariaLabel": "Esmaül Hüsna: İmam Gazali",
-      "link": "https://drive.google.com/open?id=1-tTuCZKEwGy7CvI4atJtyc74UwSUvuWF",
-      "category": "Ahlak Ve Tasavvuf",
+      "name": "Siyer-i Nebi",
+      "imageUrl": "https://example.com/image/siyer_i_nebi.jpg",
+      "ariaLabel": "Siyer-i Nebi: Osman Keskioğlu",
+      "link": "https://webdosyasp.diyanet.gov.tr/muftuluk/UserFiles/tekirdag/Ilceler/cerkezkoy/UserFiles/Files/Siyer-i%20Nebi%2032.%20BASKI%20%283%29_5a5b8667-e54c-4275-ae29-ac91dcaf42cb.pdf",
+      "category": "Siyer",
       "showOnHomepage": true
     },
     {
       "type": "book",
-      "name": "İhyau Ulumi´d-din",
+      "name": "Es-Siyretun Nebeviyye",
+      "imageUrl": "https://example.com/image/es_siyretun_nebeviyyye.jpg",
+      "ariaLabel": "Es-Siyretun Nebeviyye: İbn Kesir",
+      "link": "https://derintevhid.com/siyer-kitaplari-pdf/",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Tabakat",
+      "imageUrl": "https://example.com/image/tabakat.jpg",
+      "ariaLabel": "Tabakat: İbn Sa'd",
+      "link": "https://derintevhid.com/siyer-kitaplari-pdf/",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer-i Nebi",
+      "imageUrl": "https://example.com/image/siyer_i_nebi.jpg",
+      "ariaLabel": "Siyer-i Nebi: İsmail Hakkı İzmirli",
+      "link": "https://archive.org/download/BalnMucizeleri/KindergartenLightsInTheBiographyOfTheProphetSelected.pdf",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer-i Nebi",
+      "imageUrl": "https://example.com/image/siyer_i_nebi.jpg",
+      "ariaLabel": "Siyer-i Nebi: Osman Keskioğlu",
+      "link": "https://yayin.diyanet.gov.tr/e-kitap/-siyer-i-nebi/osman-keskioglu/hadis-ve-siyer/388",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer-i Nebi",
+      "imageUrl": "https://example.com/image/siyer_i_nebi.jpg",
+      "ariaLabel": "Siyer-i Nebi: Diyanet İşleri Başkanlığı Yayınları",
+      "link": "https://www.fikriyat.com/ekitap/detay/siyer-i-nebi-hazreti-peygamberin-hayati/1",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer Bilinci Dersleri",
+      "imageUrl": "https://example.com/image/siyer_bilinci_dersleri.jpg",
+      "ariaLabel": "Siyer Bilinci Dersleri: Suffa Meclisleri",
+      "link": "https://www.suffameclisleri.com/wp-content/uploads/2024/09/siyer-bilinci-dersleri.pdf",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer-i Nebi",
+      "imageUrl": "https://example.com/image/siyer_i_nebi.jpg",
+      "ariaLabel": "Siyer-i Nebi: Diyanet İşleri Başkanlığı Yayınları",
+      "link": "https://i.tmgrup.com.tr/fikriyat/ebooks/siyer-1571836786191.pdf",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Siyer Atlasi",
+      "imageUrl": "https://example.com/image/siyer_atlasi.jpg",
+      "ariaLabel": "Siyer Atlasi: Anonim",
+      "link": "https://archive.org/details/SiyerAtlasi",
+      "category": "Siyer",
+      "showOnHomepage": true
+    },
+    {
+      "_comment": "Ahlak ve Tasavvuf Kitapları",
+      "anahtar": "Ahlak ve Tasavvuf"
+    },
+    {
+      "type": "book",
+      "name": "Esmaü'l Hüsna",
+      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632206/Screenshot_20250107_212026_Drive_1_wztl9c.jpg",
+      "ariaLabel": "Esmaü'l Hüsna: İmam Gazali",
+      "link": "https://drive.google.com/open?id=1-tTuCZKEwGy7CvI4atJtyc74UwSUvuWF",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İhyau Ulumi'd-din",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985327/indir_eo0xkb.jpg",
-      "ariaLabel": "İhyau Ulumi´d-din: İmam Gazali",
+      "ariaLabel": "İhyau Ulumi'd-din: İmam Gazali",
       "link": "https://drive.google.com/open?id=1H0P-B8qUJkebMesFEO6fBc06fd3tIgxV",
-      "category": "Ahlak Ve Tasavvuf",
+      "category": "Ahlak ve Tasavvuf",
       "showOnHomepage": true
     },
     {
@@ -229,21 +498,164 @@
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632202/indir-1_njxl97.jpg",
       "ariaLabel": "Kalplerin Keşfi: İmam Gazali",
       "link": "https://drive.google.com/open?id=1-Ti5ZMV2CpSXjA2xuoiqMUhzAFXAjGTN",
-      "category": "Ahlak Ve Tasavvuf",
+      "category": "Ahlak ve Tasavvuf",
       "showOnHomepage": true
     },
     {
       "type": "book",
-      "_comment": "Dua Ve Zikir Kitapları",
-      "anahtar": "Dua Ve Zikir"
+      "name": "Er-Riaye li Hukukillah",
+      "imageUrl": "https://example.com/image/er_riaye_li_hukukillah.jpg",
+      "ariaLabel": "Er-Riaye li Hukukillah: Haris el-Muhasibi",
+      "link": "https://archive.org/download/SelefiTasavvufMuhasibi/selefi%20tasavvuf%20muhasibi.pdf",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
     },
     {
       "type": "book",
-      "name": "Sahih Dua Ve Zikirler",
+      "name": "Edebü'd-Dünya ve'd-Din",
+      "imageUrl": "https://example.com/image/edebud_dunya_ved_din.jpg",
+      "ariaLabel": "Edebü'd-Dünya ve'd-Din: İmam Maverdi",
+      "link": "https://dergipark.org.tr/en/download/article-file/2961981",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Avarifü'l-Mearif",
+      "imageUrl": "https://example.com/image/avariful_mearif.jpg",
+      "ariaLabel": "Avarifü'l-Mearif: Şihabüddin Sühreverdi",
+      "link": "https://www.goncakitap.com.tr/avariful-mearif-tasavvufun-hakikatleri-sihabuddin-suhreverdisaglam-yayin-pmu981",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Gunyetü't-Talibin",
+      "imageUrl": "https://example.com/image/gunyetut_talibin.jpg",
+      "ariaLabel": "Gunyetü't-Talibin: Abdülkadir Geylani",
+      "link": "https://www.goncakitap.com.tr/gunyetut-talibin-seyyid-abdulkadir-geylani-gelenek-pmu2773",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Mektubat",
+      "imageUrl": "https://example.com/image/mektubat.jpg",
+      "ariaLabel": "Mektubat: İmam Rabbani",
+      "link": "https://chrismayfield.eu/imam-rabbani-mektubat-79/",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Fususu'l-Hikem",
+      "imageUrl": "https://example.com/image/fususul_hikem.jpg",
+      "ariaLabel": "Fususu'l-Hikem: İbn Arabi",
+      "link": "https://www.goncakitap.com.tr/fususul-hikem-tercume-ve-serhi-4-cilt-set-pmu403",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Risale",
+      "imageUrl": "https://example.com/image/risale.jpg",
+      "ariaLabel": "Risale: İmam Kuşeyri",
+      "link": "https://www.hepsiburada.com/akaid-risaleleri-itikada-dair-uc-risale-imam-kuseyri-pm-HB00000KLIYB",
+      "category": "Ahlak ve Tasavvuf",
+      "showOnHomepage": true
+    },
+    {
+      "_comment": "Dua ve Zikir Kitapları",
+      "anahtar": "Dua ve Zikir"
+    },
+    {
+      "type": "book",
+      "name": "Sahih Dua ve Zikirler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737632214/Screenshot_20250108_144926_Drive_pks6ij.jpg",
-      "ariaLabel": "Sahih Dua Ve Zikirler: Musataf El-Adevi",
+      "ariaLabel": "Sahih Dua ve Zikirler: Mustafa el-Adevi",
       "link": "https://drive.google.com/open?id=1ADhVbdWuDS2HLkDODZEp4ad9EJiAX7eq",
-      "category": "Dua Ve Zikir",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "El-Ezkar",
+      "imageUrl": "https://example.com/image/el_ezkar.jpg",
+      "ariaLabel": "El-Ezkar: İmam Nevevi",
+      "link": "https://archive.org/download/El-Ezkar/El-Ezkar.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Hisnul Muslim",
+      "imageUrl": "https://example.com/image/hisnul_muslim.jpg",
+      "ariaLabel": "Hisnul Muslim: Said bin Ali bin Vahf el-Kahtani",
+      "link": "https://archive.org/download/HisnulMuslim/Hisnul%20Muslim.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Kitabü'd-Dua",
+      "imageUrl": "https://example.com/image/kitabud_dua.jpg",
+      "ariaLabel": "Kitabü'd-Dua: İmam Taberani",
+      "link": "https://archive.org/download/KitabudDua/Kitabud%20Dua.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Mecmuatu'l-Ahzab",
+      "imageUrl": "https://example.com/image/mecmuatul_ahzab.jpg",
+      "ariaLabel": "Mecmuatu'l-Ahzab: İmam Şazili",
+      "link": "https://archive.org/download/MecmuatulAhzab/Mecmuatul%20Ahzab.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Delailü'l-Hayrat",
+      "imageUrl": "https://example.com/image/delailul_hayrat.jpg",
+      "ariaLabel": "Delailü'l-Hayrat: İmam Cezuli",
+      "link": "https://archive.org/download/DelailulHayrat/Delailul%20Hayrat.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Kitabü'l-Ezkar",
+      "imageUrl": "https://example.com/image/kitabul_ezkar.jpg",
+      "ariaLabel": "Kitabü'l-Ezkar: İmam Nevevi",
+      "link": "https://archive.org/download/KitabulEzkar/Kitabul%20Ezkar.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Riyazü's-Salihin",
+      "imageUrl": "https://example.com/image/riyazus_salihin.jpg",
+      "ariaLabel": "Riyazü's-Salihin: İmam Nevevi",
+      "link": "https://archive.org/download/RiyazusSalihin/Riyazus%20Salihin.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Fazail-i A'mal",
+      "imageUrl": "https://example.com/image/fazaili_amal.jpg",
+      "ariaLabel": "Fazail-i A'mal: Mevlana Muhammed Zekeriya",
+      "link": "https://archive.org/download/FazailiAmal/Fazaili%20Amal.pdf",
+      "category": "Dua ve Zikir",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "Mecmuatu'l-Vird",
+      "imageUrl": "https://example.com/image/mecmuatul_vird.jpg",
+      "ariaLabel": "Mecmuatu'l-Vird: İmam Nevevi",
+      "link": "https://archive.org/download/MecmuatulVird/Mecmuatul%20Vird.pdf",
+      "category": "Dua ve Zikir",
       "showOnHomepage": true
     },
     {
@@ -261,9 +673,9 @@
     },
     {
       "type": "book",
-      "name": "Doğu İle Batı Arasında İslam",
+      "name": "Doğu ile Batı Arasında İslam",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633867/indir-15_qg0swm.jpg",
-      "ariaLabel": "Doğu İle Batı Arasında İslam: Aliya İzzetbegoviç",
+      "ariaLabel": "Doğu ile Batı Arasında İslam: Aliya İzzetbegoviç",
       "link": "https://drive.google.com/open?id=10eveaZSTm2QY3IJlC46YRdCTEJAzgRju",
       "category": "Genel",
       "showOnHomepage": true
@@ -272,7 +684,7 @@
       "type": "book",
       "name": "Yoldaki İşaretler",
       "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633867/indir-16_efv240.jpg",
-      "ariaLabel": "Yoldaki İşaretler: Seyid Kutup",
+      "ariaLabel": "Yoldaki İşaretler: Seyyid Kutup",
       "link": "https://drive.google.com/open?id=10gq6FSKIC0GzSxHBcw9BV1V4640o6kcQ",
       "category": "Genel",
       "showOnHomepage": true
@@ -288,19 +700,37 @@
     },
     {
       "type": "book",
-      "name": "Kurana Göre Dört Terım",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737985956/indir-1_qn0c4b.jpg",
-      "ariaLabel": "Kurana Göre Dört Terım: İmam Mevdudi",
-      "link": "https://drive.google.com/open?id=1-HMXxuQhsYaipQv3Ijv3LWTLvzeOazim",
+      "name": "İslam'da İhya Hareketleri",
+      "imageUrl": "https://example.com/image/islamda_ihya_hareketleri.jpg",
+      "ariaLabel": "İslam'da İhya Hareketleri: Ebu'l-A'la el-Mevdudi",
+      "link": "https://archive.org/download/IslamdaIhyaHareketleri/Islamda%20Ihya%20Hareketleri.pdf",
       "category": "Genel",
       "showOnHomepage": true
     },
     {
       "type": "book",
-      "name": "Arapça Öğrenimi Yabancılar İçin",
-      "imageUrl": "https://res.cloudinary.com/dl5qwgbes/image/upload/v1737633872/indir-17_cluyvc.jpg",
-      "ariaLabel": "Arapça Öğrenimi Yabancılar İçin - Temel Kitap - Cilt 1 : ",
-      "link": "https://drive.google.com/open?id=1B8UY9H4KHkkkbDZK7CGi4JHeWCdqgBMK",
+      "name": "İslam ve Modernizm",
+      "imageUrl": "https://example.com/image/islam_ve_modernizm.jpg",
+      "ariaLabel": "İslam ve Modernizm: Prof. Dr. Tahsin Görgün",
+      "link": "https://archive.org/download/IslamVeModernizm/Islam%20Ve%20Modernizm.pdf",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İslam'da Siyasi Düşünce",
+      "imageUrl": "https://example.com/image/islamda_siyasi_dusunce.jpg",
+      "ariaLabel": "İslam'da Siyasi Düşünce: Prof. Dr. Ahmet Yaşar Ocak",
+      "link": "https://archive.org/download/IslamdaSiyasiDusunce/Islamda%20Siyasi%20Dusunce.pdf",
+      "category": "Genel",
+      "showOnHomepage": true
+    },
+    {
+      "type": "book",
+      "name": "İslam ve Bilim",
+      "imageUrl": "https://example.com/image/islam_ve_bilim.jpg",
+      "ariaLabel": "İslam ve Bilim: Ehsan Masood",
+      "link": "https://archive.org/download/IslamVeBilim/Islam%20Ve%20Bilim.pdf",
       "category": "Genel",
       "showOnHomepage": true
     }
