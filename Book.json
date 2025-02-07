@@ -1,99 +1,1179 @@
 {
   "books": [
-    {
-  "_comment": "Tefsir Kitapları",
-  "anahtar": "Tefsir"
-},
-{
-  "type": "book",
-  "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
-  "imageUrl": "https://example.com/image/elmalili_hamdi_yazir.jpg",
-  "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
-  "link": "https://yayin.diyanet.gov.tr/e-kitap/kuran-yolu-turkce-meal-ve-tefsir-1/prof-dr-hayrettin-karaman/kuran-kitapligi/3788",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "İbn Kesir Tefsiri",
-  "imageUrl": "https://example.com/image/ibn_kesir_tefsiri.jpg",
-  "ariaLabel": "İbn Kesir Tefsiri: İbn Kesir",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Seyyid Kutub - Fi Zilalil Kur'an",
-  "imageUrl": "https://example.com/image/fi_zilalil_kuran.jpg",
-  "ariaLabel": "Fi Zilalil Kur'an: Seyyid Kutub",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Mevdudi - Tefhimu'l Kur'an",
-  "imageUrl": "https://example.com/image/tefhimul_kuran.jpg",
-  "ariaLabel": "Tefhimu'l Kur'an: Mevdudi",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Fahreddin Razi - Tefsir-i Kebir",
-  "imageUrl": "https://example.com/image/tefsir_i_kebir.jpg",
-  "ariaLabel": "Tefsir-i Kebir: Fahreddin Razi",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "El-Camiu li-Ahkami'l-Kur'an - İmam Kurtubi",
-  "imageUrl": "https://example.com/image/el_camiu_li_ahkamil_kuran.jpg",
-  "ariaLabel": "El-Camiu li-Ahkami'l-Kur'an: İmam Kurtubi",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Tefsirü'l-Celaleyn",
-  "imageUrl": "https://example.com/image/tefsirul_celaleyn.jpg",
-  "ariaLabel": "Tefsirü'l-Celaleyn: Celaleddin el-Mahalli ve Celaleddin es-Suyuti",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Ali Küçük - Besairu'l Kur'an",
-  "imageUrl": "https://example.com/image/besairul_kuran.jpg",
-  "ariaLabel": "Besairu'l Kur'an: Ali Küçük",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "İmam Maturidi - Te'vilatü'l Kur'an",
-  "imageUrl": "https://example.com/image/tevilatul_kuran.jpg",
-  "ariaLabel": "Te'vilatü'l Kur'an: İmam Maturidi",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
-  "imageUrl": "https://example.com/image/hak_dini_kuran_dili.jpg",
-  "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
-  "link": "https://derintevhid.com/kuran-tefsiri/",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
+   {
+    "_comment": "Tefsir Kitapları",
+    "anahtar": "Tefsir"
+  },
+  {
+    "type": "book",
+    "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
+    "imageUrl": "https://example.com/image/elmalili_hamdi_yazir.jpg",
+    "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
+    "link": "https://yayin.diyanet.gov.tr/e-kitap/kuran-yolu-turkce-meal-ve-tefsir-1/prof-dr-hayrettin-karaman/kuran-kitapligi/3788",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "İbn Kesir Tefsiri",
+    "imageUrl": "https://example.com/image/ibn_kesir_tefsiri.jpg",
+    "ariaLabel": "İbn Kesir Tefsiri: İbn Kesir",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Seyyid Kutub - Fi Zilalil Kur'an",
+    "imageUrl": "https://example.com/image/fi_zilalil_kuran.jpg",
+    "ariaLabel": "Fi Zilalil Kur'an: Seyyid Kutub",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mevdudi - Tefhimu'l Kur'an",
+    "imageUrl": "https://example.com/image/tefhimul_kuran.jpg",
+    "ariaLabel": "Tefhimu'l Kur'an: Mevdudi",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Fahreddin Razi - Tefsir-i Kebir",
+    "imageUrl": "https://example.com/image/tefsir_i_kebir.jpg",
+    "ariaLabel": "Tefsir-i Kebir: Fahreddin Razi",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "El-Camiu li-Ahkami'l-Kur'an - İmam Kurtubi",
+    "imageUrl": "https://example.com/image/el_camiu_li_ahkamil_kuran.jpg",
+    "ariaLabel": "El-Camiu li-Ahkami'l-Kur'an: İmam Kurtubi",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsirü'l-Celaleyn",
+    "imageUrl": "https://example.com/image/tefsirul_celaleyn.jpg",
+    "ariaLabel": "Tefsirü'l-Celaleyn: Celaleddin el-Mahalli ve Celaleddin es-Suyuti",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ali Küçük - Besairu'l Kur'an",
+    "imageUrl": "https://example.com/image/besairul_kuran.jpg",
+    "ariaLabel": "Besairu'l Kur'an: Ali Küçük",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "İmam Maturidi - Te'vilatü'l Kur'an",
+    "imageUrl": "https://example.com/image/tevilatul_kuran.jpg",
+    "ariaLabel": "Te'vilatü'l Kur'an: İmam Maturidi",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
+    "imageUrl": "https://example.com/image/hak_dini_kuran_dili.jpg",
+    "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
+    "link": "https://derintevhid.com/kuran-tefsiri/",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Taberi Tefsiri Full",
+    "imageUrl": "https://example.com/image/taberi_tefsiri_full.jpg",
+    "ariaLabel": "Taberi Tefsiri Full",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Taberi-Tefsiri-Full.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibni Kesir Tefsiri",
+    "imageUrl": "https://example.com/image/ibni_kesir_tefsiri_pdf.jpg",
+    "ariaLabel": "Ibni Kesir Tefsiri (PDF)",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibni-Kesir-TEFSIRI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "El-Camiu li-Ahkamil Kur'an - İmam Kurtubi (PDF)",
+    "imageUrl": "https://example.com/image/elcamiul_li_ahkamil_kuran_kurtubi_pdf.jpg",
+    "ariaLabel": "El-Camiu li-Ahkamil Kur'an - İmam Kurtubi (PDF)",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/ElCamiulLiAhkamilKuran-Kurtubi.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibn Kayyim Tefsiri 1",
+    "imageUrl": "https://example.com/image/ibn_kayyim_tefsiri_1.jpg",
+    "ariaLabel": "Ibn Kayyim Tefsiri 1",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibn-Kayyim-Tefsiri-1.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibn Kayyim Tefsiri 2",
+    "imageUrl": "https://example.com/image/ibn_kayyim_tefsiri_2.jpg",
+    "ariaLabel": "Ibn Kayyim Tefsiri 2",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibn-Kayyim-Tefsiri-2.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibn Kayyim Tefsiri 3",
+    "imageUrl": "https://example.com/image/ibn_kayyim_tefsiri_3.jpg",
+    "ariaLabel": "Ibn Kayyim Tefsiri 3",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibn-Kayyim-Tefsiri-3.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibn Kayyim Tefsiri 4",
+    "imageUrl": "https://example.com/image/ibn_kayyim_tefsiri_4.jpg",
+    "ariaLabel": "Ibn Kayyim Tefsiri 4",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibn-Kayyim-Tefsiri-4.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ibn-i Abbas 01. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ibn_i_abbas_01.jpg",
+    "ariaLabel": "Tefsir Ibn-i Abbas 01. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ibn-i-Abbas-01.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ibn-i Abbas 02. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ibn_i_abbas_02.jpg",
+    "ariaLabel": "Tefsir Ibn-i Abbas 02. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ibn-i-Abbas-02.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ibn-i Abbas 03. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ibn_i_abbas_03.jpg",
+    "ariaLabel": "Tefsir Ibn-i Abbas 03. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ibn-i-Abbas-03.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ibn-i Abbas 04. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ibn_i_abbas_04.jpg",
+    "ariaLabel": "Tefsir Ibn-i Abbas 04. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ibn-i-Abbas-04.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ibn-i Abbas 05. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ibn_i_abbas_05.jpg",
+    "ariaLabel": "Tefsir Ibn-i Abbas 05. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ibn-i-Abbas-05.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 01. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_01.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 01. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-01.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 02. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_02.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 02. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-02.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 03. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_03.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 03. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-03.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 04. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_04.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 04. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-04.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 05. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_05.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 05. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-05.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 06. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_06.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 06. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-06.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 07. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_07.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 07. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-07.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 08. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_08.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 08. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-08.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 09. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_09.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 09. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-09.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 10. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_10.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 10. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-10.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 11. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_11.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 11. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-11.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 12. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_12.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 12. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-12.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 13. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_13.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 13. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-13.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 14. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_14.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 14. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-14.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 15. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_15.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 15. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-15.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 16. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_16.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 16. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-16.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 17. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_17.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 17. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-17.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 18. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_18.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 18. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-18.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 19. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_19.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 19. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-19.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 20. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_20.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 20. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-20.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 21. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_21.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 21. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-21.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 22. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_22.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 22. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-22.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Fahreddin Er-Razi 23. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_fahreddin_errazi_23.jpg",
+    "ariaLabel": "Tefsir Fahreddin Er-Razi 23. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Tefsir-Fahreddin-Er-Razi-23.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibnul Cevzi Zadul Mesir 1",
+    "imageUrl": "https://example.com/image/ibnul_cevzi_zadul_mesir_1.jpg",
+    "ariaLabel": "Ibnul Cevzi Zadul Mesir 1",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibnul-Cevzi-Zadul-Mesir-1.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibnul Cevzi Zadul Mesir 2",
+    "imageUrl": "https://example.com/image/ibnul_cevzi_zadul_mesir_2.jpg",
+    "ariaLabel": "Ibnul Cevzi Zadul Mesir 2",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibnul-Cevzi-Zadul-Mesir-2.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibnul Cevzi Zadul Mesir 3",
+    "imageUrl": "https://example.com/image/ibnul_cevzi_zadul_mesir_3.jpg",
+    "ariaLabel": "Ibnul Cevzi Zadul Mesir 3",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibnul-Cevzi-Zadul-Mesir-3.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibnul Cevzi Zadul Mesir 4",
+    "imageUrl": "https://example.com/image/ibnul_cevzi_zadul_mesir_4.jpg",
+    "ariaLabel": "Ibnul Cevzi Zadul Mesir 4",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibnul-Cevzi-Zadul-Mesir-4.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ibnul Cevzi Zadul Mesir 5",
+    "imageUrl": "https://example.com/image/ibnul_cevzi_zadul_mesir_5.jpg",
+    "ariaLabel": "Ibnul Cevzi Zadul Mesir 5",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ibnul-Cevzi-Zadul-Mesir-5.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Esbabun Nuzul - İmam Suyuti",
+    "imageUrl": "https://example.com/image/esbabun_nuzul_imam_suyuti.jpg",
+    "ariaLabel": "Esbabun Nuzul - İmam Suyuti",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Esbabun-Nuzul-Imam-Suyuti.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 1",
+    "imageUrl": "https://example.com/image/durrul_mensur_1.jpg",
+    "ariaLabel": "Durrul Mensur 1",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-1.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 2",
+    "imageUrl": "https://example.com/image/durrul_mensur_2.jpg",
+    "ariaLabel": "Durrul Mensur 2",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-2.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 3",
+    "imageUrl": "https://example.com/image/durrul_mensur_3.jpg",
+    "ariaLabel": "Durrul Mensur 3",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-3.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 4",
+    "imageUrl": "https://example.com/image/durrul_mensur_4.jpg",
+    "ariaLabel": "Durrul Mensur 4",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-4.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 5",
+    "imageUrl": "https://example.com/image/durrul_mensur_5.jpg",
+    "ariaLabel": "Durrul Mensur 5",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-5.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 6",
+    "imageUrl": "https://example.com/image/durrul_mensur_6.jpg",
+    "ariaLabel": "Durrul Mensur 6",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-6.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 7",
+    "imageUrl": "https://example.com/image/durrul_mensur_7.jpg",
+    "ariaLabel": "Durrul Mensur 7",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-7.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 8",
+    "imageUrl": "https://example.com/image/durrul_mensur_8.jpg",
+    "ariaLabel": "Durrul Mensur 8",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-8.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 9",
+    "imageUrl": "https://example.com/image/durrul_mensur_9.jpg",
+    "ariaLabel": "Durrul Mensur 9",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-9.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 10",
+    "imageUrl": "https://example.com/image/durrul_mensur_10.jpg",
+    "ariaLabel": "Durrul Mensur 10",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-10.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 11",
+    "imageUrl": "https://example.com/image/durrul_mensur_11.jpg",
+    "ariaLabel": "Durrul Mensur 11",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-11.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 12",
+    "imageUrl": "https://example.com/image/durrul_mensur_12.jpg",
+    "ariaLabel": "Durrul Mensur 12",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-12.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 13",
+    "imageUrl": "https://example.com/image/durrul_mensur_13.jpg",
+    "ariaLabel": "Durrul Mensur 13",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-13.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 14",
+    "imageUrl": "https://example.com/image/durrul_mensur_14.jpg",
+    "ariaLabel": "Durrul Mensur 14",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-14.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 15",
+    "imageUrl": "https://example.com/image/durrul_mensur_15.jpg",
+    "ariaLabel": "Durrul Mensur 15",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-15.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Durrul Mensur 16",
+    "imageUrl": "https://example.com/image/durrul_mensur_16.jpg",
+    "ariaLabel": "Durrul Mensur 16",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/DurrulMensur-16.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 1",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_1.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 1",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-1.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 2",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_2.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 2",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-2.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 3",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_3.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 3",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-3.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 4",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_4.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 4",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-4.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 5",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_5.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 5",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-5.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Zemahseri Kessaf Tefsiri 6",
+    "imageUrl": "https://example.com/image/zemahseri_kessaf_tefsiri_6.jpg",
+    "ariaLabel": "Zemahseri Kessaf Tefsiri 6",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/12/Zemahseri-Kessaf-Tefsiri-6.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Beydavi Tefsiri (1-4 Cilt) - Prof. Dr. Sadi Eren",
+    "imageUrl": "https://example.com/image/beydavi_tefsiri.jpg",
+    "ariaLabel": "Beydavi Tefsiri (1-4 Cilt) - Prof. Dr. Sadi Eren",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/BeydaviTefsiri1-4.Cilt-Prof.Dr_.SadiEren.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nesefi Tefsiri",
+    "imageUrl": "https://example.com/image/nesefi_tefsiri.jpg",
+    "ariaLabel": "Nesefi Tefsiri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Nesefi-Tefsiri.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 01",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_01.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 01",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-01.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 02",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_02.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 02",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-02.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 03",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_03.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 03",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-03.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 04",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_04.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 04",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-04.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 05",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_05.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 05",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-05.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 06",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_06.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 06",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-06.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 07",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_07.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 07",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-07.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 08",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_08.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 08",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-08.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 09",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_09.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 09",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-09.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 10",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_10.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 10",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-10.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 11",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_11.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 11",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-11.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 12",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_12.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 12",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-12.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 13",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_13.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 13",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-13.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 14",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_14.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 14",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-14.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 15",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_15.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 15",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-15.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 16",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_16.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 16",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-16.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 17",
+    "imageUrl": "https://example.com/image/ebu_mansur_tevilat_17.jpg",
+    "ariaLabel": "Ebu Mansur el-Maturidi Tevilatul Kur'an Tercümesi 17",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Ebu-Mansur-el-Maturidi-Tevilatul-Kuran-Tercumesi-17.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 1 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_1.jpg",
+    "ariaLabel": "Nadiri Tefsiri 1 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-1-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 2 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_2.jpg",
+    "ariaLabel": "Nadiri Tefsiri 2 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-2-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 3 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_3.jpg",
+    "ariaLabel": "Nadiri Tefsiri 3 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-3-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 4 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_4.jpg",
+    "ariaLabel": "Nadiri Tefsiri 4 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-4-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 5 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_5.jpg",
+    "ariaLabel": "Nadiri Tefsiri 5 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-5-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 6 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_6.jpg",
+    "ariaLabel": "Nadiri Tefsiri 6 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-6-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Nadiri Tefsiri 7 - Muhammed Bilal Nadir Hazretleri",
+    "imageUrl": "https://example.com/image/nadiri_tefsiri_7.jpg",
+    "ariaLabel": "Nadiri Tefsiri 7 - Muhammed Bilal Nadir Hazretleri",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/NADIRI-TEFSIRI-7-MUHAMMED-BILAL-NADIR-HAZRETLERI.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 01. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_01.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 01. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-01.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 02. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_02.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 02. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-02.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 03. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_03.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 03. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-03.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 04. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_04.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 04. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-04.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 05. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_05.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 05. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-05.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 06. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_06.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 06. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-06.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 07. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_07.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 07. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-07.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Ebu Bekir El-Cessas 08. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_ebu_bekir_cessas_08.jpg",
+    "ariaLabel": "Tefsir Ebu Bekir El-Cessas 08. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Ebu-Bekir-El-Cessas-08.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 01. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_01.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 01. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-01.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 02. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_02.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 02. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-02.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 03. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_03.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 03. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-03.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 04. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_04.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 04. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-04.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 05. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_05.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 05. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-05.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Kuseyri 06. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_kuseyri_06.jpg",
+    "ariaLabel": "Tefsir Imam Kuseyri 06. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Kuseyri-06.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Sa-di 01. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_sa_di_01.jpg",
+    "ariaLabel": "Tefsir Imam Sa-di 01. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Sa-di-01.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Sa-di 02. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_sa_di_02.jpg",
+    "ariaLabel": "Tefsir Imam Sa-di 02. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Sa-di-02.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Sa-di 03. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_sa_di_03.jpg",
+    "ariaLabel": "Tefsir Imam Sa-di 03. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Sa-di-03.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Sa-di 04. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_sa_di_04.jpg",
+    "ariaLabel": "Tefsir Imam Sa-di 04. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Sa-di-04.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Tefsir Imam Sa-di 05. Cilt",
+    "imageUrl": "https://example.com/image/tefsir_imam_sa_di_05.jpg",
+    "ariaLabel": "Tefsir Imam Sa-di 05. Cilt",
+    "link": "https://derintevhid.com/wp-content/uploads/2024/12/Tefsir-Imam-Sa-di-05.Cilt_.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Fizilalil Kur'an",
+    "imageUrl": "https://example.com/image/fizilalil_kuran.jpg",
+    "ariaLabel": "Fizilalil Kur'an",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Fizilalil-kuran-pdf.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Vahidi El Veciz fi Tefsiril Kitabil Aziz",
+    "imageUrl": "https://example.com/image/vahidi_el_veciz.jpg",
+    "ariaLabel": "Vahidi El Veciz fi Tefsiril Kitabil Aziz",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Vahidi-El-Veciz-fi-Tefsiril-Kitabil-Aziz.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "864 Celaleddin Mahalli Suyuti Tefsirul Celaleyn (Türkçe)",
+    "imageUrl": "https://example.com/image/864_celaleddin_mahalli_suyuti.jpg",
+    "ariaLabel": "864 Celaleddin Mahalli Suyuti Tefsirul Celaleyn (Türkçe)",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/864-Celaleddin-Mahalli-Suyuti-Tefsirul-Celaleyn-Turkce.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Besairul Kur'an - Ali Küçük",
+    "imageUrl": "https://example.com/image/besairul_kuran_ali_kucuk.jpg",
+    "ariaLabel": "Besairul Kur'an - Ali Küçük",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Besairul-Kuran-Ali-Kucuk.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "1984 Izzet Derveze ve Tefsirul ḥadis (Türkçe)",
+    "imageUrl": "https://example.com/image/1984_izzet_deriveze.jpg",
+    "ariaLabel": "1984 Izzet Derveze ve Tefsirul ḥadis (Türkçe)",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/1984-Izzet-Derveze-et-Tefsirul-ḥadis-Turkce.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mevdudi Tefhimul Kur'an",
+    "imageUrl": "https://example.com/image/mevdudi_tefhimul_kuran.jpg",
+    "ariaLabel": "Mevdudi Tefhimul Kur'an",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Mevdudi-Tefhimul-Kuran.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "El Esas Fit Tefsir - Said Havva Seçme Sureler",
+    "imageUrl": "https://example.com/image/el_esas_fit_tefsir.jpg",
+    "ariaLabel": "El Esas Fit Tefsir - Said Havva Seçme Sureler",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/El-Esas-Fit-Tefsir-Said-Havva-Secme-Sureler.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Safvetut Tefasir - Sabuni",
+    "imageUrl": "https://example.com/image/safvetut_tefasir_sabuni.jpg",
+    "ariaLabel": "Safvetut Tefasir - Sabuni",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/SafvetutTefasir-Sabuni.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mukatil Tefsiri Kebir 1",
+    "imageUrl": "https://example.com/image/mukatil_tefsiri_kebir_1.jpg",
+    "ariaLabel": "Mukatil Tefsiri Kebir 1",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Mukatil-Tefsiri-Kebir-1.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mukatil Tefsiri Kebir 2",
+    "imageUrl": "https://example.com/image/mukatil_tefsiri_kebir_2.jpg",
+    "ariaLabel": "Mukatil Tefsiri Kebir 2",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Mukatil-Tefsiri-Kebir-2.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mukatil Tefsiri Kebir 3",
+    "imageUrl": "https://example.com/image/mukatil_tefsiri_kebir_3.jpg",
+    "ariaLabel": "Mukatil Tefsiri Kebir 3",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Mukatil-Tefsiri-Kebir-3.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
+  {
+    "type": "book",
+    "name": "Mukatil Tefsiri Kebir 4",
+    "imageUrl": "https://example.com/image/mukatil_tefsiri_kebir_4.jpg",
+    "ariaLabel": "Mukatil Tefsiri Kebir 4",
+    "link": "https://derintevhid.com/wp-content/uploads/2022/11/Mukatil-Tefsiri-Kebir-4.pdf",
+    "category": "Tefsir",
+    "showOnHomepage": true
+  },
     {
       "_comment": "Hadis Kitapları",
       "anahtar": "Hadis"
