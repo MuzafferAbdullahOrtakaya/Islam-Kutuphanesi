@@ -1,6 +1,6 @@
 {
   "books": [
-     {
+    {
   "_comment": "Tefsir Kitapları",
   "anahtar": "Tefsir"
 },
@@ -9,7 +9,7 @@
   "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
   "imageUrl": "https://example.com/image/elmalili_hamdi_yazir.jpg",
   "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
-  "link": "https://yayin.diyanet.gov.tr/File/Download?path=~/Document/Kitaplar/Elmalili-Hamdi-Yazir-Hak-Dini-Kuran-Dili.pdf",
+  "link": "https://yayin.diyanet.gov.tr/e-kitap/kuran-yolu-turkce-meal-ve-tefsir-1/prof-dr-hayrettin-karaman/kuran-kitapligi/3788",
   "category": "Tefsir",
   "showOnHomepage": true
 },
@@ -18,7 +18,7 @@
   "name": "İbn Kesir Tefsiri",
   "imageUrl": "https://example.com/image/ibn_kesir_tefsiri.jpg",
   "ariaLabel": "İbn Kesir Tefsiri: İbn Kesir",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/ibn-kesir-tefsiri.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
@@ -27,7 +27,7 @@
   "name": "Seyyid Kutub - Fi Zilalil Kur'an",
   "imageUrl": "https://example.com/image/fi_zilalil_kuran.jpg",
   "ariaLabel": "Fi Zilalil Kur'an: Seyyid Kutub",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/fi-zilalil-kuran.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
@@ -36,7 +36,7 @@
   "name": "Mevdudi - Tefhimu'l Kur'an",
   "imageUrl": "https://example.com/image/tefhimul_kuran.jpg",
   "ariaLabel": "Tefhimu'l Kur'an: Mevdudi",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefhimul-kuran.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
@@ -45,43 +45,16 @@
   "name": "Fahreddin Razi - Tefsir-i Kebir",
   "imageUrl": "https://example.com/image/tefsir_i_kebir.jpg",
   "ariaLabel": "Tefsir-i Kebir: Fahreddin Razi",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsir-i-kebir.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "El-Camiu li-Ahkami'l-Kur'an",
+  "name": "El-Camiu li-Ahkami'l-Kur'an - İmam Kurtubi",
   "imageUrl": "https://example.com/image/el_camiu_li_ahkamil_kuran.jpg",
   "ariaLabel": "El-Camiu li-Ahkami'l-Kur'an: İmam Kurtubi",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/el-camiu-li-ahkamil-kuran.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Besairu'l Kur'an",
-  "imageUrl": "https://example.com/image/besairul_kuran.jpg",
-  "ariaLabel": "Besairu'l Kur'an: Ali Küçük",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/besairul-kuran.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Nesefi Tefsiri",
-  "imageUrl": "https://example.com/image/nesefi_tefsiri.jpg",
-  "ariaLabel": "Nesefi Tefsiri: İmam Nesefi",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/nesefi-tefsiri.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Tefsirü'l-Münir",
-  "imageUrl": "https://example.com/image/tefsirul_munir.jpg",
-  "ariaLabel": "Tefsirü'l-Münir: Vehbe Zuhayli",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsirul-munir.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
@@ -90,7 +63,34 @@
   "name": "Tefsirü'l-Celaleyn",
   "imageUrl": "https://example.com/image/tefsirul_celaleyn.jpg",
   "ariaLabel": "Tefsirü'l-Celaleyn: Celaleddin el-Mahalli ve Celaleddin es-Suyuti",
-  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsirul-celaleyn.pdf",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "Ali Küçük - Besairu'l Kur'an",
+  "imageUrl": "https://example.com/image/besairul_kuran.jpg",
+  "ariaLabel": "Besairu'l Kur'an: Ali Küçük",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "İmam Maturidi - Te'vilatü'l Kur'an",
+  "imageUrl": "https://example.com/image/tevilatul_kuran.jpg",
+  "ariaLabel": "Te'vilatü'l Kur'an: İmam Maturidi",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
+  "imageUrl": "https://example.com/image/hak_dini_kuran_dili.jpg",
+  "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
+  "link": "https://derintevhid.com/kuran-tefsiri/",
   "category": "Tefsir",
   "showOnHomepage": true
 },
