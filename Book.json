@@ -1,96 +1,96 @@
 {
   "books": [
-    {
+     {
   "_comment": "Tefsir Kitapları",
   "anahtar": "Tefsir"
 },
 {
   "type": "book",
-  "name": "El Taberi",
-  "imageUrl": "https://example.com/images/el_taberi.jpg",
-  "ariaLabel": "Taberi Tefsir 1.Cilt: El Taberi",
-  "link": "https://archive.org/download/TaberiTefsiri/Taberi%20Tefsiri.pdf",
+  "name": "Elmalılı Hamdi Yazır - Hak Dini Kur'an Dili",
+  "imageUrl": "https://example.com/image/elmalili_hamdi_yazir.jpg",
+  "ariaLabel": "Hak Dini Kur'an Dili: Elmalılı Hamdi Yazır",
+  "link": "https://yayin.diyanet.gov.tr/File/Download?path=~/Document/Kitaplar/Elmalili-Hamdi-Yazir-Hak-Dini-Kuran-Dili.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "Besairul Kuran",
-  "imageUrl": "https://example.com/images/besairul_kuran.jpg",
-  "ariaLabel": "Besairul Kuran: Ali Küçük Hoca",
-  "link": "https://archive.org/download/BesairulKuran/Besairul%20Kuran.pdf",
+  "name": "İbn Kesir Tefsiri",
+  "imageUrl": "https://example.com/image/ibn_kesir_tefsiri.jpg",
+  "ariaLabel": "İbn Kesir Tefsiri: İbn Kesir",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/ibn-kesir-tefsiri.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "Sufyan Es Sevri Tefsiri",
-  "imageUrl": "https://example.com/images/sufyan_es_sevri_tefsiri.jpg",
-  "ariaLabel": "Sufyan Es Sevri Tefsiri: Sufyan Es Sevri",
-  "link": "https://archive.org/download/SufyanEsSevriTefsiri/Sufyan%20Es%20Sevri%20Tefsiri.pdf",
+  "name": "Seyyid Kutub - Fi Zilalil Kur'an",
+  "imageUrl": "https://example.com/image/fi_zilalil_kuran.jpg",
+  "ariaLabel": "Fi Zilalil Kur'an: Seyyid Kutub",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/fi-zilalil-kuran.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "Tefsirü'l-Kur'ânü'l-Azîm",
-  "imageUrl": "https://example.com/images/tefsirul_kuranul_azim.jpg",
-  "ariaLabel": "Tefsirü'l-Kur'ânü'l-Azîm: İbn Kesir",
-  "link": "https://archive.org/download/TefsirulKuranulAzim/Tefsirul%20Kuranul%20Azim.pdf",
+  "name": "Mevdudi - Tefhimu'l Kur'an",
+  "imageUrl": "https://example.com/image/tefhimul_kuran.jpg",
+  "ariaLabel": "Tefhimu'l Kur'an: Mevdudi",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefhimul-kuran.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "El-Câmiu li-Ahkâmi'l-Kur'ân",
-  "imageUrl": "https://example.com/images/el_camiu_li_ahkamil_kuran.jpg",
-  "ariaLabel": "El-Câmiu li-Ahkâmi'l-Kur'ân: İmam Kurtubi",
-  "link": "https://archive.org/download/ElCamiuLiAhkamilKuran/El-Camiu%20li-Ahkamil%20Kuran.pdf",
+  "name": "Fahreddin Razi - Tefsir-i Kebir",
+  "imageUrl": "https://example.com/image/tefsir_i_kebir.jpg",
+  "ariaLabel": "Tefsir-i Kebir: Fahreddin Razi",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsir-i-kebir.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
-  "name": "Mefâtîhu'l-Ğayb",
-  "imageUrl": "https://example.com/images/mefatihul_ğayb.jpg",
-  "ariaLabel": "Mefâtîhu'l-Ğayb: Fahreddin er-Razi",
-  "link": "https://archive.org/download/MefatihulGayb/Mefatihul%20Gayb.pdf",
+  "name": "El-Camiu li-Ahkami'l-Kur'an",
+  "imageUrl": "https://example.com/image/el_camiu_li_ahkamil_kuran.jpg",
+  "ariaLabel": "El-Camiu li-Ahkami'l-Kur'an: İmam Kurtubi",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/el-camiu-li-ahkamil-kuran.pdf",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "Besairu'l Kur'an",
+  "imageUrl": "https://example.com/image/besairul_kuran.jpg",
+  "ariaLabel": "Besairu'l Kur'an: Ali Küçük",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/besairul-kuran.pdf",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "Nesefi Tefsiri",
+  "imageUrl": "https://example.com/image/nesefi_tefsiri.jpg",
+  "ariaLabel": "Nesefi Tefsiri: İmam Nesefi",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/nesefi-tefsiri.pdf",
+  "category": "Tefsir",
+  "showOnHomepage": true
+},
+{
+  "type": "book",
+  "name": "Tefsirü'l-Münir",
+  "imageUrl": "https://example.com/image/tefsirul_munir.jpg",
+  "ariaLabel": "Tefsirü'l-Münir: Vehbe Zuhayli",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsirul-munir.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
 {
   "type": "book",
   "name": "Tefsirü'l-Celaleyn",
-  "imageUrl": "https://example.com/images/tefsirul_celaleyn.jpg",
+  "imageUrl": "https://example.com/image/tefsirul_celaleyn.jpg",
   "ariaLabel": "Tefsirü'l-Celaleyn: Celaleddin el-Mahalli ve Celaleddin es-Suyuti",
-  "link": "https://archive.org/download/TefsirulCelaleyn/Tefsirul%20Celaleyn.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Ed-Dürrü'l-Mensûr",
-  "imageUrl": "https://example.com/images/ed_durrul_mensur.jpg",
-  "ariaLabel": "Ed-Dürrü'l-Mensûr: Celaleddin es-Suyuti",
-  "link": "https://archive.org/download/EdDurrulMensur/Ed-Durrul%20Mensur.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Ahkâmu'l-Kur'ân",
-  "imageUrl": "https://example.com/images/ahkamul_kuran.jpg",
-  "ariaLabel": "Ahkâmu'l-Kur'ân: İmam Şafi",
-  "link": "https://archive.org/download/AhkamulKuran/Ahkamul%20Kuran.pdf",
-  "category": "Tefsir",
-  "showOnHomepage": true
-},
-{
-  "type": "book",
-  "name": "Tefsirü'l-Maturidi",
-  "imageUrl": "https://example.com/images/tefsirul_maturidi.jpg",
-  "ariaLabel": "Tefsirü'l-Maturidi: İmam Maturidi",
-  "link": "https://archive.org/download/TefsirulMaturidi/Tefsirul%20Maturidi.pdf",
+  "link": "https://www.furkanhareketi.com/dosyalar/tefsir/tefsirul-celaleyn.pdf",
   "category": "Tefsir",
   "showOnHomepage": true
 },
